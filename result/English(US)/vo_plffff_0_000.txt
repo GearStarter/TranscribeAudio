@@ -1,0 +1,5864 @@
+0.wav
+Hey there!
+
+1.wav
+Rightio!
+
+2.wav
+You betcha!
+
+3.wav
+Indeed!
+
+4.wav
+Hi-yup!
+
+5.wav
+Time to earn myself some loot!
+
+6.wav
+Hope I find something good today. Here goes.
+
+7.wav
+Welcome to a meal super shop drop me a line if there's anything you need
+
+8.wav
+Whoops, I didn't even see you there!
+
+9.wav
+Oh! Hey there, did you need something?
+
+10.wav
+That was a bit aggressive, don't you think?
+
+11.wav
+Y'all come back now!
+
+12.wav
+Come check out our low low prices!
+
+13.wav
+Step aside, please! Coming through!
+
+14.wav
+If we don't have it, you don't need it.
+
+15.wav
+Thanks, friendo!
+
+16.wav
+The customer is always right at a meal super shop.
+
+17.wav
+Welcome!
+
+18.wav
+Hey there!
+
+19.wav
+What can I do for ya?
+
+20.wav
+BAH!
+
+21.wav
+expecting
+
+22.wav
+Sarcophagus
+
+23.wav
+No.
+
+24.wav
+Zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+
+25.wav
+saaaaaaa
+
+26.wav
+Bed large End
+
+27.wav
+Thanks for watching!
+
+28.wav
+Be on alert.
+
+29.wav
+Back me up.
+
+30.wav
+Leave it to me.
+
+31.wav
+Roger.
+
+32.wav
+Understood.
+
+33.wav
+Alright.
+
+34.wav
+Will do.
+
+35.wav
+on it.
+
+36.wav
+Okay.
+
+37.wav
+Take point.
+
+38.wav
+Be careful here.
+
+39.wav
+Close in.
+
+40.wav
+Yep.
+
+41.wav
+What?
+
+42.wav
+Uh-huh.
+
+43.wav
+Right.
+
+44.wav
+Huh.
+
+45.wav
+Pod.
+
+46.wav
+Uh-huh.
+
+47.wav
+Yeah.
+
+48.wav
+I see.
+
+49.wav
+Right.
+
+50.wav
+What?
+
+51.wav
+Be on alert.
+
+52.wav
+Back me up.
+
+53.wav
+Leave it to me.
+
+54.wav
+Roger.
+
+55.wav
+Understood.
+
+56.wav
+Alright.
+
+57.wav
+Will do.
+
+58.wav
+on it.
+
+59.wav
+Okay.
+
+60.wav
+Take point.
+
+61.wav
+Be careful here.
+
+62.wav
+Closing.
+
+63.wav
+Yup.
+
+64.wav
+Amar.
+
+65.wav
+Uh-huh.
+
+66.wav
+Right.
+
+67.wav
+Huh.
+
+68.wav
+hard.
+
+69.wav
+Uh-huh.
+
+70.wav
+Yeah.
+
+71.wav
+I see.
+
+72.wav
+Right.
+
+73.wav
+A lot.
+
+74.wav
+Hmm.
+
+75.wav
+What?
+
+76.wav
+Hmm
+
+77.wav
+うん
+
+78.wav
+Right.
+
+79.wav
+Pod.
+
+80.wav
+ん?
+
+81.wav
+What?
+
+82.wav
+Hmm
+
+83.wav
+んふん
+
+84.wav
+Right.
+
+85.wav
+Do what the situation demands.
+
+86.wav
+Light em up!
+
+87.wav
+Detonating.
+
+88.wav
+This should do it.
+
+89.wav
+Hacking in!
+
+90.wav
+Taking control.
+
+91.wav
+I'll analyze the enemy.
+
+92.wav
+Back me up.
+
+93.wav
+Initiating hacking.
+
+94.wav
+Back me up from afar.
+
+95.wav
+Leave everything to me.
+
+96.wav
+You're mine now.
+
+97.wav
+Follow my orders!
+
+98.wav
+Analysis complete. Defend us!
+
+99.wav
+Reversing enemy IFF signals.
+
+100.wav
+Acknowledged.
+
+101.wav
+Understood.
+
+102.wav
+Copy that.
+
+103.wav
+Got it.
+
+104.wav
+Roger.
+
+105.wav
+Let's wipe him out!
+
+106.wav
+We should be careful here.
+
+107.wav
+Let's close some distance.
+
+108.wav
+Right.
+
+109.wav
+Yep.
+
+110.wav
+Yes.
+
+111.wav
+Really?
+
+112.wav
+Huh.
+
+113.wav
+Pot.
+
+114.wav
+Right.
+
+115.wav
+Yep.
+
+116.wav
+Yes.
+
+117.wav
+Really?
+
+118.wav
+はぁ
+
+119.wav
+What?
+
+120.wav
+I see.
+
+121.wav
+Really?
+
+122.wav
+Yeah.
+
+123.wav
+Pod.
+
+124.wav
+What?
+
+125.wav
+I see.
+
+126.wav
+Hmm
+
+127.wav
+Yeah.
+
+128.wav
+Uh-huh.
+
+129.wav
+Um...
+
+130.wav
+Yes.
+
+131.wav
+Hmm.
+
+132.wav
+Oh?
+
+133.wav
+Yes.
+
+134.wav
+Right.
+
+135.wav
+はぁっ
+
+136.wav
+Right.
+
+137.wav
+Hmm?
+
+138.wav
+Hmm
+
+139.wav
+Uh huh.
+
+140.wav
+Phew.
+
+141.wav
+んっ
+
+142.wav
+What?
+
+143.wav
+んっ
+
+144.wav
+N cooperate with.'"
+
+145.wav
+Yes.
+
+146.wav
+ん?
+
+147.wav
+Hmm.
+
+148.wav
+Right.
+
+149.wav
+Phew.
+
+150.wav
+んっ
+
+151.wav
+は?
+
+152.wav
+んっ
+
+153.wav
+Hmm
+
+154.wav
+Sup.
+
+155.wav
+Heya.
+
+156.wav
+Huh.
+
+157.wav
+Really?
+
+158.wav
+Say.
+
+159.wav
+new
+
+160.wav
+Eh! Mm-mm.
+
+161.wav
+I'm gonna hold on.
+
+162.wav
+She's a gardener
+
+163.wav
+Mm.
+
+164.wav
+[Possible Noise] mmm
+
+165.wav
+Yeah.
+
+166.wav
+Hey.
+
+167.wav
+Say.
+
+168.wav
+Yes.
+
+169.wav
+Right.
+
+170.wav
+んふん
+
+171.wav
+Excuse me.
+
+172.wav
+あは
+
+173.wav
+Yes.
+
+174.wav
+Right.
+
+175.wav
+んふ
+
+176.wav
+Hey.
+
+177.wav
+Ugh.
+
+178.wav
+Hmm?
+
+179.wav
+Hmm.
+
+180.wav
+Wow!
+
+181.wav
+あはは
+
+182.wav
+Hmm...
+
+183.wav
+Hmm?
+
+184.wav
+What?
+
+185.wav
+はぁ…
+
+186.wav
+Hmph!
+
+187.wav
+Greetings.
+
+188.wav
+I see.
+
+189.wav
+Hmm
+
+190.wav
+Right!
+
+191.wav
+うぅ…
+
+192.wav
+はぁ?
+
+193.wav
+What?
+
+194.wav
+Hmm
+
+195.wav
+うぅ…
+
+196.wav
+Hello?
+
+197.wav
+んふん
+
+198.wav
+I see.
+
+199.wav
+うふふ
+
+200.wav
+Umm...
+
+201.wav
+Hmm?
+
+202.wav
+Oh!
+
+203.wav
+What?
+
+204.wav
+awww
+
+205.wav
+Affirmative.
+
+206.wav
+Yes.
+
+207.wav
+Right.
+
+208.wav
+Hmm.
+
+209.wav
+Understood.
+
+210.wav
+Right.
+
+211.wav
+Affirmative.
+
+212.wav
+Yes.
+
+213.wav
+Right.
+
+214.wav
+I wonder.
+
+215.wav
+Understood.
+
+216.wav
+Right.
+
+217.wav
+Yes?
+
+218.wav
+Yes.
+
+219.wav
+Right.
+
+220.wav
+Mm-hmm.
+
+221.wav
+Yes?
+
+222.wav
+Yes.
+
+223.wav
+Right.
+
+224.wav
+Mm-hmm.
+
+225.wav
+Yes?
+
+226.wav
+Yes.
+
+227.wav
+Right.
+
+228.wav
+Mm-hmm.
+
+229.wav
+うん
+
+230.wav
+Yes.
+
+231.wav
+Right.
+
+232.wav
+Uh-huh.
+
+233.wav
+Mmm.
+
+234.wav
+Yes.
+
+235.wav
+Right.
+
+236.wav
+Uh-huh.
+
+237.wav
+Mmm.
+
+238.wav
+Yes.
+
+239.wav
+Right.
+
+240.wav
+Mm-hmm.
+
+241.wav
+Hey!
+
+242.wav
+Mm-hmm.
+
+243.wav
+Oh.
+
+244.wav
+Ha ha
+
+245.wav
+うぅー
+
+246.wav
+Hmm.
+
+247.wav
+お!
+
+248.wav
+Ah.
+
+249.wav
+Grrr.
+
+250.wav
+Hey.
+
+251.wav
+Uh huh.
+
+252.wav
+Really?
+
+253.wav
+はっ
+
+254.wav
+Uh...
+
+255.wav
+Hmm?
+
+256.wav
+Ugh.
+
+257.wav
+うぅ…
+
+258.wav
+No.
+
+259.wav
+Hello.
+
+260.wav
+Mm-hmm.
+
+261.wav
+No kidding.
+
+262.wav
+Hehehe
+
+263.wav
+Umm...
+
+264.wav
+Huh?
+
+265.wav
+Whoa!
+
+266.wav
+Aww.
+
+267.wav
+んんっ
+
+268.wav
+अहां
+
+269.wav
+You don't say.
+
+270.wav
+うふふ
+
+271.wav
+Hmm...
+
+272.wav
+Hmm?
+
+273.wav
+What?
+
+274.wav
+Hmm.
+
+275.wav
+Chuh!
+
+276.wav
+Oh.
+
+277.wav
+んふん
+
+278.wav
+Interesting.
+
+279.wav
+[Silent]
+
+280.wav
+Sigh.
+
+281.wav
+What?
+
+282.wav
+What?
+
+283.wav
+Yeah.
+
+284.wav
+Hm hm.
+
+285.wav
+へぇー
+
+286.wav
+よし
+
+287.wav
+ummmmm.
+
+288.wav
+뭐야?
+
+289.wav
+おっと
+
+290.wav
+Huh.
+
+291.wav
+くそ
+
+292.wav
+Yeah.
+
+293.wav
+[Silent]
+
+294.wav
+へぇー?
+
+295.wav
+よし
+
+296.wav
+Mmmh.
+
+297.wav
+おや?
+
+298.wav
+おっと
+
+299.wav
+[Silent]
+
+300.wav
+くそっ
+
+301.wav
+Hello.
+
+302.wav
+Right.
+
+303.wav
+Oh my.
+
+304.wav
+I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed. I'm gonna go to bed.
+
+305.wav
+Well...
+
+306.wav
+Huh?
+
+307.wav
+Whoa!
+
+308.wav
+What?
+
+309.wav
+k wat
+
+310.wav
+Hi.
+
+311.wav
+はぁー
+
+312.wav
+Hehehe
+
+313.wav
+はぁ…
+
+314.wav
+ん?
+
+315.wav
+[Silent]
+
+316.wav
+Hi.
+
+317.wav
+I see.
+
+318.wav
+Wow.
+
+319.wav
+Okay.
+
+320.wav
+Mmmmm...
+
+321.wav
+Huh?
+
+322.wav
+Whoa.
+
+323.wav
+Oh.
+
+324.wav
+Damn it.
+
+325.wav
+Hello.
+
+326.wav
+Right.
+
+327.wav
+Oh my.
+
+328.wav
+Hehehe
+
+329.wav
+Well...
+
+330.wav
+Huh?
+
+331.wav
+Whoa.
+
+332.wav
+What?
+
+333.wav
+Ugh.
+
+334.wav
+はい
+
+335.wav
+Ugh.
+
+336.wav
+www
+
+337.wav
+Sigh.
+
+338.wav
+えっ?
+
+339.wav
+Mm.
+
+340.wav
+Hey!
+
+341.wav
+Uh-huh.
+
+342.wav
+Oh?
+
+343.wav
+Haha
+
+344.wav
+Hmm
+
+345.wav
+Hmm?
+
+346.wav
+What?
+
+347.wav
+lengthy sigh
+
+348.wav
+Damn.
+
+349.wav
+Hey there!
+
+350.wav
+Uh-huh.
+
+351.wav
+No kidding.
+
+352.wav
+Ha ha ha.
+
+353.wav
+Hmm.
+
+354.wav
+Oh?
+
+355.wav
+Well...
+
+356.wav
+Crowd, you got here in 10 seconds now.
+
+357.wav
+off
+
+358.wav
+Hiya.
+
+359.wav
+Ryan.
+
+360.wav
+Huh.
+
+361.wav
+Oh.
+
+362.wav
+Um...
+
+363.wav
+Wait, what?
+
+364.wav
+Whoa!
+
+365.wav
+Huh.
+
+366.wav
+Hmph.
+
+367.wav
+Hey.
+
+368.wav
+Uh-huh.
+
+369.wav
+Yeah?
+
+370.wav
+フッ
+
+371.wav
+Hmm Masters...?
+
+372.wav
+Huh?
+
+373.wav
+What?
+
+374.wav
+Christopher grunts
+
+375.wav
+Damn it.
+
+376.wav
+Hey.
+
+377.wav
+Uh-huh.
+
+378.wav
+Oh?
+
+379.wav
+Ahahaha
+
+380.wav
+F fr
+
+381.wav
+Oh?
+
+382.wav
+Well...
+
+383.wav
+Ugh..
+
+384.wav
+Ahem.
+
+385.wav
+Hi.
+
+386.wav
+Right.
+
+387.wav
+Hmm.
+
+388.wav
+Oh.
+
+389.wav
+Um...
+
+390.wav
+What?
+
+391.wav
+Whoa.
+
+392.wav
+Hmm.
+
+393.wav
+Hmph.
+
+394.wav
+See you there.
+
+395.wav
+Mm-hmm.
+
+396.wav
+Really?
+
+397.wav
+Alright.
+
+398.wav
+Hmm.
+
+399.wav
+Huh?
+
+400.wav
+は?
+
+401.wav
+[Silent]
+
+402.wav
+[Silent]
+
+403.wav
+Hmm?
+
+404.wav
+Hmm
+
+405.wav
+Oh really?
+
+406.wav
+Ha ha ha ha.
+
+407.wav
+Hmm...
+
+408.wav
+Hmm?
+
+409.wav
+What?
+
+410.wav
+era
+
+411.wav
+んー?
+
+412.wav
+Hey.
+
+413.wav
+Mm-hmm.
+
+414.wav
+Oh.
+
+415.wav
+Alright.
+
+416.wav
+Hmm.
+
+417.wav
+Huh?
+
+418.wav
+Huh?
+
+419.wav
+Grrr.
+
+420.wav
+Grrrr.
+
+421.wav
+ふーん
+
+422.wav
+Well...
+
+423.wav
+Really?
+
+424.wav
+hahaha
+
+425.wav
+U current
+
+426.wav
+はぁ?
+
+427.wav
+What?
+
+428.wav
+Grrr...
+
+429.wav
+[Possible Noise] Grrrr
+
+430.wav
+Hi.
+
+431.wav
+Yeah.
+
+432.wav
+Wow, really?
+
+433.wav
+Ha ha!
+
+434.wav
+うぅぅぅ…
+
+435.wav
+Huh?
+
+436.wav
+はいっ
+
+437.wav
+おぉー
+
+438.wav
+[Silent]
+
+439.wav
+Hi.
+
+440.wav
+Yeah.
+
+441.wav
+Really?
+
+442.wav
+hehe
+
+443.wav
+んー
+
+444.wav
+Huh?
+
+445.wav
+What?
+
+446.wav
+Ugh.
+
+447.wav
+[Possible Noise] MMMM
+
+448.wav
+11S to 9S, come in.
+
+449.wav
+Um, just about wrapped up here. How about you?
+
+450.wav
+Roger.
+
+451.wav
+Be sure to head back to the bunker when you're done so you can sync your data.
+
+452.wav
+Until your combat data is uploaded, none of the scanner models can run updates.
+
+453.wav
+Appreciate it.
+
+454.wav
+This is 1B. I'm facing heavy enemy resistance.
+
+455.wav
+Is anyone available to provide support?
+
+456.wav
+Much appreciated.
+
+457.wav
+You saved my life. Thank you.
+
+458.wav
+Uuhm...
+
+459.wav
+Uh, got it!
+
+460.wav
+Hold up! The captain is ordering a retreat!
+
+461.wav
+No... How could you?!
+
+462.wav
+9S...9S!
+
+463.wav
+9S!
+
+464.wav
+9S
+
+465.wav
+I see.
+
+466.wav
+What say we go stock up over there?
+
+467.wav
+Ugh.
+
+468.wav
+9S.
+
+469.wav
+Stop calling me ma'am.
+
+470.wav
+There's no need to be so formal.
+
+471.wav
+Is there something you forgot?
+
+472.wav
+Yes, Commander.
+
+473.wav
+Understood.
+
+474.wav
+Understood.
+
+475.wav
+Orders are orders.
+
+476.wav
+Roger.
+
+477.wav
+Understood.
+
+478.wav
+These machines are talking.
+
+479.wav
+ふーん
+
+480.wav
+What's with the weird looking outfits?
+
+481.wav
+んん
+
+482.wav
+うん
+
+483.wav
+Yeah.
+
+484.wav
+What's that?
+
+485.wav
+Stay focused.
+
+486.wav
+These are Android bodies.
+
+487.wav
+What is this?
+
+488.wav
+Who is this guy?
+
+489.wav
+What the hell just happened?
+
+490.wav
+Alright, let's go back.
+
+491.wav
+No, we should keep fighting.
+
+492.wav
+Hmm. I heard something about that back at the resistance camp.
+
+493.wav
+Right.
+
+494.wav
+Hmm.
+
+495.wav
+There's no point trying to work out unsolvable problems.
+
+496.wav
+What are those?
+
+497.wav
+What the?
+
+498.wav
+If these are machines, why aren't they attacking us?
+
+499.wav
+What's this?
+
+500.wav
+We need a way through.
+
+501.wav
+If they aren't hostile, fighting them is a waste of time.
+
+502.wav
+Yeah.
+
+503.wav
+What's this? Some kind of crystal?
+
+504.wav
+A plant cell.
+
+505.wav
+What the hell?
+
+506.wav
+Are we seriously being attacked with dead androids?
+
+507.wav
+Alright, this ends now.
+
+508.wav
+You got it.
+
+509.wav
+We have to save those androids.
+
+510.wav
+Thanks for the assist.
+
+511.wav
+Oh.
+
+512.wav
+What is it?
+
+513.wav
+The machines don't have feelings.
+
+514.wav
+You said that yourself.
+
+515.wav
+Hostiles.
+
+516.wav
+What's with the flag?
+
+517.wav
+What's that?
+
+518.wav
+Surrender, huh?
+
+519.wav
+はぁ
+
+520.wav
+So why don't the machines, or the aliens who created them, attack the bunker directly?
+
+521.wav
+They originally came here from outer space, right?
+
+522.wav
+They all have white flags.
+
+523.wav
+Let's follow it.
+
+524.wav
+Let's go back to Pascal again.
+
+525.wav
+9S, let's go back and get some data from the machines.
+
+526.wav
+Fair enough.
+
+527.wav
+We'll sort it out later. Let's go.
+
+528.wav
+on it.
+
+529.wav
+Damn it!
+
+530.wav
+Copy that.
+
+531.wav
+What is this?
+
+532.wav
+Guess we'll see once we get there.
+
+533.wav
+If we're lucky.
+
+534.wav
+What is this place?
+
+535.wav
+You.
+
+536.wav
+wiped out.
+
+537.wav
+Why them?
+
+538.wav
+Assist you with what?
+
+539.wav
+The aliens were already dead.
+
+540.wav
+Stop complaining.
+
+541.wav
+Care to fill me in?
+
+542.wav
+You again.
+
+543.wav
+So this has a transporter now, huh?
+
+544.wav
+That concludes our report on the events surrounding the alien wreckage.
+
+545.wav
+Of course.
+
+546.wav
+Understood.
+
+547.wav
+I'll rest if I feel like it.
+
+548.wav
+We don't get to choose our assignments.
+
+549.wav
+And you should work on keeping your opinions in check.
+
+550.wav
+Your ha aren't allowed to be emotional, remember?
+
+551.wav
+I'm heading to the transporter.
+
+552.wav
+We need to talk.
+
+553.wav
+Pascal
+
+554.wav
+Aside from this village, are there any other machines that are cut off from the network?
+
+555.wav
+Forest Kingdom?
+
+556.wav
+Where is it?
+
+557.wav
+No getting through here.
+
+558.wav
+More meaningless conjecture.
+
+559.wav
+You're getting distracted.
+
+560.wav
+Good idea.
+
+561.wav
+I'm aware of how to fight.
+
+562.wav
+You just be careful.
+
+563.wav
+These machines.
+
+564.wav
+What is with these guys?
+
+565.wav
+Let's go 9S.
+
+566.wav
+んっ
+
+567.wav
+She's gone.
+
+568.wav
+Yeah.
+
+569.wav
+Alright.
+
+570.wav
+9S, why did you ask Pascal about A2?
+
+571.wav
+It's not recommended to interface with machines without consulting command.
+
+572.wav
+Though I suppose such intense curiosity can be admirable in its own way.
+
+573.wav
+Still, machines are the enemy. Don't forget it.
+
+574.wav
+Let's stay sharp and head back to the resistance camp.
+
+575.wav
+We should run a check on our consciousness data and resupply.
+
+576.wav
+Seriously?
+
+577.wav
+Is that what we need to protect?
+
+578.wav
+Androids don't need to bathe.
+
+579.wav
+As long as you perform regular cleaning and maintenance, bathing is unnecessary.
+
+580.wav
+If she didn't order others around, what kind of leader would she be?
+
+581.wav
+Enemy aerial unit destroyed.
+
+582.wav
+Reverting back to Area Reconna.
+
+583.wav
+Didn't I kill that already?
+
+584.wav
+Is that... a machine?
+
+585.wav
+Oh, is that all?
+
+586.wav
+Go ahead.
+
+587.wav
+So basically, if this thing reaches land, we're screwed.
+
+588.wav
+Got it.
+
+589.wav
+Ugh, this thing's armor is too thick. We need more firepower!
+
+590.wav
+Direct? Oh right!
+
+591.wav
+Huh.
+
+592.wav
+What?
+
+593.wav
+No!
+
+594.wav
+He has a plan. Just hold on!
+
+595.wav
+on it.
+
+596.wav
+To be to Bunker. Come in. Over.
+
+597.wav
+Running system diagnostics. Core functionality appears intact.
+
+598.wav
+Never mind that. I need a status report.
+
+599.wav
+8 hours?
+
+600.wav
+Where's 9S?
+
+601.wav
+If you found something, that means he must be alive.
+
+602.wav
+Put in a request to the commander for immediate approval to begin a search.
+
+603.wav
+Will do. To be out.
+
+604.wav
+Pod, I need you to scan for any nearby black box signals.
+
+605.wav
+Never heard of it.
+
+606.wav
+Let's go.
+
+607.wav
+I'm looking for something called a dynamic scanner that can detect black box signals.
+
+608.wav
+Yes.
+
+609.wav
+I need a scanner that can detect faint black box signals.
+
+610.wav
+No, not really.
+
+611.wav
+I've picked up a response on the scanner.
+
+612.wav
+Huh, this might be useful.
+
+613.wav
+Got it.
+
+614.wav
+It's funny.
+
+615.wav
+You're oddly chatty today.
+
+616.wav
+Proposal denied.
+
+617.wav
+Pond, employ a check module and a logic virus vaccine.
+
+618.wav
+Easy. I've contacted the bunker. They should be here soon.
+
+619.wav
+Please, anything will help.
+
+620.wav
+Thank you. You should stay here until the rescue team arrives.
+
+621.wav
+9S should have landed around here.
+
+622.wav
+Wrong route. Better go back and see if there's another one.
+
+623.wav
+Would 9S have made it this far inside?
+
+624.wav
+Don't care.
+
+625.wav
+Why are there dead androids here?
+
+626.wav
+What is this?
+
+627.wav
+I know. Let's move.
+
+628.wav
+Who built it?
+
+629.wav
+What's with the corpses?
+
+630.wav
+You know nothing about humanity.
+
+631.wav
+Bastard.
+
+632.wav
+I know!
+
+633.wav
+I don't have time for you.
+
+634.wav
+I need to find 9S!
+
+635.wav
+んっ
+
+636.wav
+Shut up!
+
+637.wav
+You shut up too!
+
+638.wav
+Thanks.
+
+639.wav
+What?
+
+640.wav
+ん…
+
+641.wav
+Got it.
+
+642.wav
+This is 2B. Patch me through to the commander.
+
+643.wav
+What's going to happen to 9S?
+
+644.wav
+Thank you.
+
+645.wav
+Understood.
+
+646.wav
+Analyze current trends among the machines. Huh.
+
+647.wav
+Something tells me this is going to involve a lot of killing.
+
+648.wav
+Hmm. I suppose he might know something.
+
+649.wav
+Pascal, can you hear me?
+
+650.wav
+I need to know if you've seen any new trends or behaviors among the machines.
+
+651.wav
+No kidding.
+
+652.wav
+If that's what they want, why don't they move in?
+
+653.wav
+You don't say.
+
+654.wav
+please.
+
+655.wav
+Sounds good.
+
+656.wav
+Even you.
+
+657.wav
+It certainly does.
+
+658.wav
+So why are you still here?
+
+659.wav
+Appreciate it.
+
+660.wav
+Damn it!
+
+661.wav
+Less talk, more running.
+
+662.wav
+To be to Bunker.
+
+663.wav
+The connection's too unstable to use the transporter.
+
+664.wav
+We've had a run-in with hostile machines in the abandoned factory!
+
+665.wav
+We need an immediate escape route!
+
+666.wav
+Loop a distress signal.
+
+667.wav
+Damn it!
+
+668.wav
+We're locked in!
+
+669.wav
+んっ
+
+670.wav
+9S!?
+
+671.wav
+appreciated
+
+672.wav
+Oh, now what?
+
+673.wav
+9S
+
+674.wav
+That Goliath we just encountered.
+
+675.wav
+Do it!
+
+676.wav
+Will do.
+
+677.wav
+Alright.
+
+678.wav
+Thanks.
+
+679.wav
+No thanks.
+
+680.wav
+I'm heading back to the resistance camp.
+
+681.wav
+What about you?
+
+682.wav
+I see.
+
+683.wav
+Say again? I'm not receiving.
+
+684.wav
+Let's move.
+
+685.wav
+Why are their numbers increasing like this?
+
+686.wav
+Try contacting the bunker via laser relay system.
+
+687.wav
+The machine life forms are getting more violent.
+
+688.wav
+Let's get to the resistance camp, now!
+
+689.wav
+You okay?
+
+690.wav
+There are still enemies here, we can't just leave!
+
+691.wav
+Got it. You get the other androids out of here.
+
+692.wav
+What's going on here?
+
+693.wav
+は?
+
+694.wav
+You again?
+
+695.wav
+This is never going to end.
+
+696.wav
+I'm fine.
+
+697.wav
+Let's take this bastard down!
+
+698.wav
+We need to get back.
+
+699.wav
+Let's get to the village.
+
+700.wav
+SHIT
+
+701.wav
+Let's take these guys out first.
+
+702.wav
+What happened here?
+
+703.wav
+If we destroy this presiding unit, will it stop the rest?
+
+704.wav
+Pod, I need you to locate Eve's current position.
+
+705.wav
+We'll take care of Eve.
+
+706.wav
+What is this?
+
+707.wav
+on it.
+
+708.wav
+He's absorbing the life force of whatever's left on the network.
+
+709.wav
+on it.
+
+710.wav
+9S!
+
+711.wav
+Protecting Unit 9S while he hacks the system.
+
+712.wav
+Shut up!
+
+713.wav
+If 9S says he can do it, then he will!
+
+714.wav
+[Silent]
+
+715.wav
+9S, take him down!
+
+716.wav
+No!
+
+717.wav
+But you'll lose you, the you that exists at this very moment.
+
+718.wav
+9S
+
+719.wav
+Will do.
+
+720.wav
+I will. And thanks.
+
+721.wav
+The enemy just keeps coming.
+
+722.wav
+What's our status?
+
+723.wav
+Better take him out fast.
+
+724.wav
+Sounds good.
+
+725.wav
+This is Gorilla Unit 2B.
+
+726.wav
+We're on our way.
+
+727.wav
+Keep your guard up. Optimism is what gets people killed.
+
+728.wav
+All we can do is fight.
+
+729.wav
+This is Unit 2B.
+
+730.wav
+Sounds good.
+
+731.wav
+We're heading over now to provide support.
+
+732.wav
+Alright.
+
+733.wav
+Damn it, we took too long. They're gone.
+
+734.wav
+This is Gorilla Unit 2B.
+
+735.wav
+We're headed your way now.
+
+736.wav
+We're on it.
+
+737.wav
+This is Gorilla Unit 2B.
+
+738.wav
+We're heading in your direction now.
+
+739.wav
+We need to hurry.
+
+740.wav
+This is Unit 2B.
+
+741.wav
+We're in position to provide support for Attack Squadron Omega.
+
+742.wav
+If this keeps up, we can win.
+
+743.wav
+9S, scan the area to see if any reinforcements are on the way.
+
+744.wav
+What was that?
+
+745.wav
+Let my guard down. EMP hit me point blank.
+
+746.wav
+I gotta reboot!
+
+747.wav
+うっ…うっ…
+
+748.wav
+9S, kill my identification circuit. I can't attack them like this.
+
+749.wav
+No.
+
+750.wav
+Wait, what?
+
+751.wav
+Attack functions aren't working!
+
+752.wav
+Do it!
+
+753.wav
+Pod, report our status to command.
+
+754.wav
+God dammit!
+
+755.wav
+Got it.
+
+756.wav
+Pod, send an emergency distress signal to command.
+
+757.wav
+Pod!
+
+758.wav
+Damn it! They're still jamming us?!
+
+759.wav
+Shit, what happened to the bunker?
+
+760.wav
+I can't keep doing this forever!
+
+761.wav
+Sounds good.
+
+762.wav
+Are you done yet?
+
+763.wav
+We have to report back to command.
+
+764.wav
+Commander.
+
+765.wav
+We're telling you, Yorha has gone berserk!
+
+766.wav
+That's not the operator. It's-
+
+767.wav
+They're still conscious.
+
+768.wav
+∂∂
+
+769.wav
+Commander, the bunker is lost!
+
+770.wav
+We have to evacuate!
+
+771.wav
+I don't know!
+
+772.wav
+Commander, we need to get some flight units from the hangar and get out of here!
+
+773.wav
+Commander!
+
+774.wav
+But 9S can hack into your systems and-
+
+775.wav
+[Silent]
+
+776.wav
+Commander...
+
+777.wav
+Hostiles?
+
+778.wav
+It's Yorha!
+
+779.wav
+Uh. Uh.
+
+780.wav
+Alright, enough of this shit.
+
+781.wav
+9S, I need to take over your controls!
+
+782.wav
+I'm getting us out of here!
+
+783.wav
+Stealth function released!
+
+784.wav
+Gotta find a way to land this thing.
+
+785.wav
+God dammit!
+
+786.wav
+Remove the contamination and reset!
+
+787.wav
+んっ
+
+788.wav
+Bunker's gone. There's no point in backing up anyway.
+
+789.wav
+Ugh...Ugh...Ugh...
+
+790.wav
+9S
+
+791.wav
+My body is...
+
+792.wav
+[Silent]
+
+793.wav
+I can't eliminate the virus.
+
+794.wav
+I have to keep it from spreading to other androids.
+
+795.wav
+Pod, give me a location that's low on Android signals.
+
+796.wav
+You don't say...
+
+797.wav
+Almost... there!
+
+798.wav
+A... Two...
+
+799.wav
+It's just a statue.
+
+800.wav
+It moved.
+
+801.wav
+What was that?
+
+802.wav
+What?
+
+803.wav
+That's certainly one way to put it.
+
+804.wav
+Maybe you should ask him.
+
+805.wav
+Who knows?
+
+806.wav
+Maybe you should ask him.
+
+807.wav
+We can't seem to locate the required material.
+
+808.wav
+ふん?
+
+809.wav
+So destroy it.
+
+810.wav
+I remember seeing large two-legged machines in the desert.
+
+811.wav
+Finding this stuff is proving tougher than I'd hoped.
+
+812.wav
+Let's look around.
+
+813.wav
+You know, I'm still not sure any of this is a good idea.
+
+814.wav
+Did you learn anything from the factory data?
+
+815.wav
+We know we can find pristine screws on big bipedal machines, but what about large gears?
+
+816.wav
+There's still a lot about machines that we don't understand.
+
+817.wav
+Gather as much data as you can, no matter how irrelevant it may seem.
+
+818.wav
+Right, let's go take out some small fry.
+
+819.wav
+We still don't have what we need.
+
+820.wav
+Surely just a little damage won't hurt.
+
+821.wav
+We're no different.
+
+822.wav
+We've destroyed machines beyond counting.
+
+823.wav
+Perhaps someone sees that as a sin.
+
+824.wav
+No idea.
+
+825.wav
+Your scientific curiosity is getting out of hand, 9S.
+
+826.wav
+Over there.
+
+827.wav
+We should leave before more enemies arrive.
+
+828.wav
+You got me.
+
+829.wav
+I'm on it.
+
+830.wav
+We must have lost him somewhere.
+
+831.wav
+Oh, that's unfortunate.
+
+832.wav
+Nice shack.
+
+833.wav
+So we're vets now? That's new.
+
+834.wav
+I assume you have at least some idea where to start looking for animal medication?
+
+835.wav
+We have no right to judge.
+
+836.wav
+We're soldiers that were created to kill.
+
+837.wav
+Is that?
+
+838.wav
+I've been thinking about the machine who was leading that pack.
+
+839.wav
+It seemed less like imitation and more like actual animal behavior.
+
+840.wav
+Perhaps.
+
+841.wav
+Yeah.
+
+842.wav
+I suppose.
+
+843.wav
+Indeed.
+
+844.wav
+Maybe.
+
+845.wav
+Got it.
+
+846.wav
+Right, let's get her back to Pascal's village.
+
+847.wav
+9S, where's the girl?
+
+848.wav
+Don't know, don't care.
+
+849.wav
+Huh? You're the chatty one, work it out.
+
+850.wav
+Huh.
+
+851.wav
+Yep.
+
+852.wav
+The resistance is a valuable ally to Yorha.
+
+853.wav
+By helping them, we also help ourselves.
+
+854.wav
+So no, I don't think they're a pain.
+
+855.wav
+Look, a corpse.
+
+856.wav
+Let's bring this back to her friend.
+
+857.wav
+She wants intel on A2, does she? Where should we start?
+
+858.wav
+Look.
+
+859.wav
+Pod, help me out here.
+
+860.wav
+What's the data?
+
+861.wav
+Why do a bunch of machines have A2's data?
+
+862.wav
+Pod, analyze and collate the information from those chips.
+
+863.wav
+No kidding.
+
+864.wav
+Some things just aren't easy to talk about.
+
+865.wav
+especially for a soldier who's been fighting that long.
+
+866.wav
+9S, you.
+
+867.wav
+You might understand yourself someday.
+
+868.wav
+Well, aren't we generous?
+
+869.wav
+All this help for no personal gain? I know she's pretty, but...
+
+870.wav
+Whatever.
+
+871.wav
+Gifts are such a useless ritual.
+
+872.wav
+It's rude to give a person something without their permission. What if they don't want it?
+
+873.wav
+Feelings are prohibited.
+
+874.wav
+One affirmation will suffice.
+
+875.wav
+Stay alert. She could be our killer.
+
+876.wav
+Let's ask that guy over there.
+
+877.wav
+Let's go talk to her.
+
+878.wav
+んっ
+
+879.wav
+Some things are better left unknown.
+
+880.wav
+9S.
+
+881.wav
+Pod, analyze this machine.
+
+882.wav
+Call it professional curiosity.
+
+883.wav
+Are you saying this thing wanted revenge?
+
+884.wav
+I guess the weaker one lost.
+
+885.wav
+It's the truth she has to know.
+
+886.wav
+[Silent]
+
+887.wav
+Understood.
+
+888.wav
+To beat operator 6-0. Material handover complete.
+
+889.wav
+How do you know all this?
+
+890.wav
+to be here.
+
+891.wav
+Understood.
+
+892.wav
+Yeah?
+
+893.wav
+I have some information about that, Commander.
+
+894.wav
+The access point went offline because machine lifeforms were jamming it.
+
+895.wav
+Understood.
+
+896.wav
+I read you, Operator. Go ahead.
+
+897.wav
+We'll do.
+
+898.wav
+Understood.
+
+899.wav
+Is that all of them?
+
+900.wav
+Let's check this thing out.
+
+901.wav
+I don't see any damage.
+
+902.wav
+This is YORHA Unit 2B. Connect me to Bunker Operator 6-0.
+
+903.wav
+The transporter was being jammed by machine life forms. It should be working now.
+
+904.wav
+Roger.
+
+905.wav
+I see.
+
+906.wav
+part.
+
+907.wav
+I didn't say anything yet.
+
+908.wav
+That's right.
+
+909.wav
+You think?
+
+910.wav
+Alright.
+
+911.wav
+Pod, take a photograph of the Desert Rose and send it to operator 6-0.
+
+912.wav
+To be here, go ahead.
+
+913.wav
+Some, yes. I've seen lilies, cherry blossoms, daffodils, and even lunar tears.
+
+914.wav
+I'll try to send more if I can.
+
+915.wav
+Machines attacking indiscriminately.
+
+916.wav
+Agreed.
+
+917.wav
+Watch out, they're still alive!
+
+918.wav
+What's it saying?
+
+919.wav
+What was with that thing?
+
+920.wav
+They'll find out in the end.
+
+921.wav
+And so will we.
+
+922.wav
+A lunar tear.
+
+923.wav
+Are you remembering something?
+
+924.wav
+んっ
+
+925.wav
+Where are we?
+
+926.wav
+Emil, what is this place?
+
+927.wav
+Interesting.
+
+928.wav
+ふん?
+
+929.wav
+Thank you.
+
+930.wav
+Everyone has memories that are precious for one reason or another.
+
+931.wav
+It's not for us to judge their value.
+
+932.wav
+They're important to her. That's all we need to know.
+
+933.wav
+Huh, that's new.
+
+934.wav
+Engaging. Pod, analyze the enemy.
+
+935.wav
+Haven't I fought this thing before?
+
+936.wav
+Understood.
+
+937.wav
+Engaging enemy.
+
+938.wav
+Brother? So there's another one?
+
+939.wav
+There's another one of those strange machines.
+
+940.wav
+Roger.
+
+941.wav
+A machine seeking revenge for its family?
+
+942.wav
+How absurd.
+
+943.wav
+That's a Yorha unit.
+
+944.wav
+So this is where you landed.
+
+945.wav
+Pod, can you access her black box?
+
+946.wav
+Hmm
+
+947.wav
+She was planning to go AWOL.
+
+948.wav
+I'll bring this weapon back to 16D in the bunker.
+
+949.wav
+Hmm. Don't need this.
+
+950.wav
+So it's junk, basically.
+
+951.wav
+Makes sense.
+
+952.wav
+A library must be that long narrow room.
+
+953.wav
+What's this?
+
+954.wav
+Some kind of writing.
+
+955.wav
+Is this the treasure?
+
+956.wav
+Pod, scan this bio code and run a positional search.
+
+957.wav
+Got it.
+
+958.wav
+Don't ask me.
+
+959.wav
+That should be enough deer and boar meat. Let's get it back to the trader.
+
+960.wav
+Mm.
+
+961.wav
+There from your, huh?
+
+962.wav
+You're both currently wanted by command for desertion. Disengage and surrender immediately.
+
+963.wav
+んっ!
+
+964.wav
+[Silent]
+
+965.wav
+Let's find out.
+
+966.wav
+Let's go.
+
+967.wav
+We're here to fight. That's all.
+
+968.wav
+Relics from the old world, eh?
+
+969.wav
+Enemies?
+
+970.wav
+these enemies.
+
+971.wav
+Explain.
+
+972.wav
+Warfare was entertainment?
+
+973.wav
+Understood.
+
+974.wav
+Oh.
+
+975.wav
+A Yorha only chip?
+
+976.wav
+Roger.
+
+977.wav
+Ships with classified data, is it?
+
+978.wav
+You mean stamp it?
+
+979.wav
+Easy for you to say.
+
+980.wav
+Deluxe, huh?
+
+981.wav
+What do you mean?
+
+982.wav
+Emile sure is acting odd.
+
+983.wav
+Pod.
+
+984.wav
+Nice work.
+
+985.wav
+Are these a meal?
+
+986.wav
+Emil!
+
+987.wav
+What?
+
+988.wav
+What?
+
+989.wav
+Damn it!
+
+990.wav
+Sound advice.
+
+991.wav
+No!
+
+992.wav
+Enough!
+
+993.wav
+[Possible Noise] Ugh!
+
+994.wav
+Emil.
+
+995.wav
+You'll be alright. We can repair you.
+
+996.wav
+Emil.
+
+997.wav
+Is this a pod?
+
+998.wav
+Why was it abandoned?
+
+999.wav
+Pod, reactivate it for me. If it's usable, try to overwrite the original owner with my ID.
+
+1000.wav
+I caught a pod?
+
+1001.wav
+Pod, reset it and try to overwrite the original owner ID.
+
+1002.wav
+Yes?
+
+1003.wav
+Oh.
+
+1004.wav
+of
+
+1005.wav
+I'm good.
+
+1006.wav
+What?
+
+1007.wav
+9S works just fine.
+
+1008.wav
+Roger that, Nine. Zuh.
+
+1009.wav
+Roger that 9S.
+
+1010.wav
+Cut the chatter and engage the enemy.
+
+1011.wav
+No complaining about your work.
+
+1012.wav
+Exchanging information with the resistance is a vital part of our mission.
+
+1013.wav
+Besides, being a gopher is safer than being locked in combat all the time.
+
+1014.wav
+Not dying beats dying any day.
+
+1015.wav
+A general idea is good enough.
+
+1016.wav
+This is 2B, nothing to report.
+
+1017.wav
+It's fine. Does that question have anything to do with our operation?
+
+1018.wav
+Feeling nice has no bearing on completing missions.
+
+1019.wav
+To be here. What's wrong?
+
+1020.wav
+I am definitely not the person to discuss this with.
+
+1021.wav
+You leaving would be bad for me. It would affect mission efficiency.
+
+1022.wav
+All Model B combat units require the assistance of an operator.
+
+1023.wav
+So.
+
+1024.wav
+That's all. Closing this channel.
+
+1025.wav
+This is 2B, nothing to report.
+
+1026.wav
+Flowers?
+
+1027.wav
+Don't eat it.
+
+1028.wav
+I don't need to hear about-
+
+1029.wav
+ふぅ…
+
+1030.wav
+This is Yorha Unit 2B.
+
+1031.wav
+If anyone is listening to this, there's something I need you to do.
+
+1032.wav
+If you ever meet up with Yura Unit 9S.
+
+1033.wav
+I want him... I mean...
+
+1034.wav
+I'm sorry. Please just give him the following message.
+
+1035.wav
+9S... the time I was able to spend with you...
+
+1036.wav
+It was like memories of pure light.
+
+1037.wav
+Thank you... Nines...
+
+1038.wav
+to be here.
+
+1039.wav
+Understood.
+
+1040.wav
+We don't need such things.
+
+1041.wav
+A t-shirt?
+
+1042.wav
+ふーん
+
+1043.wav
+When that day comes, I'm all for it.
+
+1044.wav
+Yep.
+
+1045.wav
+This is 3B, captain of Theta Squadron.
+
+1046.wav
+The enemy machines are multiplying in front of us! We can't hold this position!
+
+1047.wav
+Thanks.
+
+1048.wav
+We'll join you, if that's alright.
+
+1049.wav
+Heh. Having trouble over there?
+
+1050.wav
+Hunter Squadron deploying out of North 12C Defense HQ.
+
+1051.wav
+I'm the commanding officer, 4B.
+
+1052.wav
+Don't worry, we'll take it from here.
+
+1053.wav
+This is 4B, Captain of Vanguard Squadron Alpha.
+
+1054.wav
+We're being worn down by a fierce enemy attack.
+
+1055.wav
+Roger, and thanks.
+
+1056.wav
+Thanks for the assist.
+
+1057.wav
+We'll join you and provide further backup.
+
+1058.wav
+This is 5B. I can't hold out if this keeps up!
+
+1059.wav
+AHHHH Sid ia
+
+1060.wav
+Shit! This wasn't supposed to happen!
+
+1061.wav
+They've come for us, idiot! Prepare to engage and inform the captain!
+
+1062.wav
+Damn it! I'll kill you!
+
+1063.wav
+Shut your trap!
+
+1064.wav
+Understood!
+
+1065.wav
+2 2 B! Oh, damn it! Damn you to hell!
+
+1066.wav
+This is Unit 6B!
+
+1067.wav
+Sorry to say, but I'm in a bit of a mess. Any support would be appreciated.
+
+1068.wav
+I never expected we'd have this much trouble.
+
+1069.wav
+Let me help you out now.
+
+1070.wav
+This is Unit 7B with Vanguard Squadron Delta.
+
+1071.wav
+We're currently pinned down by a number of machines that appear to have lost their minds.
+
+1072.wav
+Roger, 2B. Much appreciated.
+
+1073.wav
+Thanks for the assist.
+
+1074.wav
+Understood. We'll join you there and lend a hand.
+
+1075.wav
+This is Unit 8B with Attack Squadron Omega. We've gained control of our assigned zone.
+
+1076.wav
+Heading out now to provide support elsewhere.
+
+1077.wav
+Are we ever glad to see you?
+
+1078.wav
+They came out of nowhere. We were fighting for our damn lives!
+
+1079.wav
+22B... 64B... What the hell?
+
+1080.wav
+You... you did this!
+
+1081.wav
+Shut up! You don't know anything!
+
+1082.wav
+This is 9B of Epsilon Squadron.
+
+1083.wav
+requesting immediate reinforcements.
+
+1084.wav
+Got it. Thank you.
+
+1085.wav
+You're a lifesaver.
+
+1086.wav
+9S here, go ahead.
+
+1087.wav
+Roger that.
+
+1088.wav
+Yeah, yeah.
+
+1089.wav
+Fine.
+
+1090.wav
+Man, this is a real pain.
+
+1091.wav
+Fine.
+
+1092.wav
+Ooh, must have been rough out there.
+
+1093.wav
+Firing missile.
+
+1094.wav
+To be. What's going on?
+
+1095.wav
+We have to help her. Let's go!
+
+1096.wav
+Where am I?
+
+1097.wav
+and engaging.
+
+1098.wav
+Continuing support.
+
+1099.wav
+Upload Toopy's memory data package.
+
+1100.wav
+It's fine. Upload 2B's data first.
+
+1101.wav
+It's fine. Upload 2B's data first.
+
+1102.wav
+Looks like it's time to help 2B get herself set up.
+
+1103.wav
+She's probably waiting in her room now.
+
+1104.wav
+Sorry to barge in on you- Oh. Looks like you've already started.
+
+1105.wav
+The hangar's up ahead. Let's go.
+
+1106.wav
+The commander's put me in charge of your maintenance, ma'am.
+
+1107.wav
+By the way, have you checked your mail at the terminal yet? I doubt there are any important messages, but just in case.
+
+1108.wav
+That means I'll be performing regular checks on you from now on.
+
+1109.wav
+Are you carrying enough supplies on you? If not, you can always use the terminal in your room to replenish them.
+
+1110.wav
+Come to think of it, do we have enough supplies?
+
+1111.wav
+Oh, don't worry. We 9S models are the best around, you know.
+
+1112.wav
+Though I suppose we're not exactly known for our modesty.
+
+1113.wav
+Did you forget something?
+
+1114.wav
+This here's my room. Feel free to swing by whenever you want.
+
+1115.wav
+Hm? What is it, ma'am?
+
+1116.wav
+Huh?
+
+1117.wav
+Uh, alright, if you say so.
+
+1118.wav
+Oh, I almost forgot.
+
+1119.wav
+Not that there's much to do here.
+
+1120.wav
+The commander was calling for you.
+
+1121.wav
+We better go see what's up, man- Er, 2B.
+
+1122.wav
+Doesn't Yorha have a dedicated resistance contact already?
+
+1123.wav
+The surface? That means we'll be getting flight units, huh?
+
+1124.wav
+Better head for the hangar.
+
+1125.wav
+Heh, usually we can't get near flight units. They're way too expensive for us grunts.
+
+1126.wav
+Too bad they can't mass produce these things yet.
+
+1127.wav
+Hey 2B, why do you think they sent a combat model like you to a recon job?
+
+1128.wav
+Hey 2B, why do you think they sent a combat model like you to a recon job?
+
+1129.wav
+If all they want is Intel, we scanner models are built for that kind of thing.
+
+1130.wav
+Alright, alright.
+
+1131.wav
+According to our intel, none of the machines in this area are hostile.
+
+1132.wav
+We've been seeing more and more enemies like this lately.
+
+1133.wav
+They just stand there and stare into space. It's pretty weird.
+
+1134.wav
+Hey, Toopy!
+
+1135.wav
+You should know better than to try that. Not even a cutting-edge yorha like you would survive that kind of fall.
+
+1136.wav
+Try not to act so recklessly, alright?
+
+1137.wav
+This must have been quite a city once upon a time. Too bad Vegetation's claimed most of it now.
+
+1138.wav
+So this is the resistance camp, huh?
+
+1139.wav
+We should probably go talk to their leader first thing.
+
+1140.wav
+Hmm? You know about 2B?
+
+1141.wav
+She seems a bit... rough.
+
+1142.wav
+Gah! That caught me off guard.
+
+1143.wav
+Guess we better be careful even when it seems like there's no one around.
+
+1144.wav
+Nice, operator! You work fast!
+
+1145.wav
+Yeah, yeah.
+
+1146.wav
+Looks like it. So, Jack Ass, was it? What are you doing all the way out here?
+
+1147.wav
+Who opens a sealed gate with explosives?
+
+1148.wav
+There's gotta be an easier way, right?
+
+1149.wav
+Ugh, this sand sure is slippery.
+
+1150.wav
+Careful, we've got enemies approaching.
+
+1151.wav
+Yeah, I heard from the Resistance that they've been seeing this a lot lately.
+
+1152.wav
+Couldn't tell you why though.
+
+1153.wav
+Scary? Who? Us?
+
+1154.wav
+Do you think they even understand the concept of being scared?
+
+1155.wav
+I've seen that sort of thing when I was going through some old data. It looks like what humans used to wear long ago.
+
+1156.wav
+Certain human collectives used to use face paint like that too.
+
+1157.wav
+To be, it's fine. Their speech doesn't mean anything.
+
+1158.wav
+They're just emitting words at random.
+
+1159.wav
+If they wanted help, why would they be attacking us?
+
+1160.wav
+It's heading for that rocky area.
+
+1161.wav
+Once, long ago, a volcano erupted.
+
+1162.wav
+From the fires of the eruption, a god emerged.
+
+1163.wav
+One day, the god appeared before the machines and said,
+
+1164.wav
+Consciousness. Pain. Joy. Misery.
+
+1165.wav
+Fury. Shame. Desolation. The future.
+
+1166.wav
+The meaning of life.
+
+1167.wav
+I wonder why they insisted on living in such large groups.
+
+1168.wav
+Things must have been really dangerous around here, huh?
+
+1169.wav
+Man, humans sure are weird creatures.
+
+1170.wav
+Target confirmed. Let's get him.
+
+1171.wav
+Multiple machines detected ahead.
+
+1172.wav
+But what's with these Android bodies?
+
+1173.wav
+I wonder what makes them choose these words.
+
+1174.wav
+What are they doing here?
+
+1175.wav
+It's like they were gathered here.
+
+1176.wav
+There it goes!
+
+1177.wav
+Don't listen to them, 2B.
+
+1178.wav
+They don't have any feelings.
+
+1179.wav
+They're just imitating human speech.
+
+1180.wav
+Let's take them out.
+
+1181.wav
+I think he's evolving.
+
+1182.wav
+We better finish this quick!
+
+1183.wav
+Come on, through that hole!
+
+1184.wav
+I know! I've never seen a machine like that before.
+
+1185.wav
+We better report this to command.
+
+1186.wav
+Tooby, let's get out of here!
+
+1187.wav
+It stopped. Looks like we're safe now.
+
+1188.wav
+Let's move to an area with better reception so we can contact Command.
+
+1189.wav
+Okay, this is good. We should be able to reach command here.
+
+1190.wav
+The surface is blocked off. Let's head in from underground.
+
+1191.wav
+9S to bunker, do you copy?
+
+1192.wav
+Operator, we... uh... we just encountered a pair of humanoid machines.
+
+1193.wav
+We weren't able to capture them.
+
+1194.wav
+But I have combat data ready for upload.
+
+1195.wav
+Hopefully you can get something out of it.
+
+1196.wav
+Whew. I think we've earned a breather.
+
+1197.wav
+Say 2B? I was hoping we could talk about our next move.
+
+1198.wav
+I'm worried about the damage we took in that last battle with the machines.
+
+1199.wav
+Maybe we should return to the resistance camp to resupply and conduct maintenance?
+
+1200.wav
+You got it.
+
+1201.wav
+Roger that. Just try not to overdo it, okay?
+
+1202.wav
+Roger.
+
+1203.wav
+This is 9S, go ahead.
+
+1204.wav
+Target location confirmed.
+
+1205.wav
+I'm worried about the other androids.
+
+1206.wav
+We should probably check this out as soon as possible.
+
+1207.wav
+So 2B.
+
+1208.wav
+Those machines out in the desert look just like androids, right?
+
+1209.wav
+But we androids were modeled after our human creators.
+
+1210.wav
+So why would machines try to look like us?
+
+1211.wav
+I suppose.
+
+1212.wav
+Looks like our surface route's been cut off.
+
+1213.wav
+Maybe we can get through from underground.
+
+1214.wav
+They were found by the machines.
+
+1215.wav
+The machines called them... Treasures.
+
+1216.wav
+Each treasure had a different shape.
+
+1217.wav
+Each treasure.
+
+1218.wav
+If you need to rest, Tooby, we can go back to the resistance camp.
+
+1219.wav
+Well, this is weird.
+
+1220.wav
+Where does this corridor lead?
+
+1221.wav
+Maybe there's another route that will take us deeper inside.
+
+1222.wav
+There's gotta be some way to proceed further in.
+
+1223.wav
+This gate isn't going to open.
+
+1224.wav
+Pretty sure this is the last place we haven't searched.
+
+1225.wav
+I'm picking up a resistance presence in the amusement park.
+
+1226.wav
+Maybe there's another way around.
+
+1227.wav
+We're getting resistance signals from that building over there.
+
+1228.wav
+Let's see if we can't find another route.
+
+1229.wav
+Humans sure are strange creatures.
+
+1230.wav
+Let's look around for a route we can take.
+
+1231.wav
+These guys were ready for a fight from the start.
+
+1232.wav
+Guess they're attacking us after all.
+
+1233.wav
+These machines are heavily armed.
+
+1234.wav
+We'll regret it later if we let them escape. So let's take them out.
+
+1235.wav
+Do you really think it's a good idea to leave that tank behind?
+
+1236.wav
+We can rest easy now, huh?
+
+1237.wav
+Android Corpses.
+
+1238.wav
+Our records don't say anything about a machine like this!
+
+1239.wav
+It's trying to hack us!
+
+1240.wav
+If we take hacking damage, it'll affect our bodies as well!
+
+1241.wav
+Wait, I don't think-
+
+1242.wav
+Toopy, I'm detecting black box signals!
+
+1243.wav
+They aren't dead. They've been turned into weapons!
+
+1244.wav
+I've almost analyzed the enemy's hacking pattern.
+
+1245.wav
+I'm going to try to hack it back.
+
+1246.wav
+Keep it busy!
+
+1247.wav
+I'm working on it.
+
+1248.wav
+Oh, you mean the hacking? No worries.
+
+1249.wav
+Scanners are pretty good at that kind of thing.
+
+1250.wav
+I've got your back anytime.
+
+1251.wav
+I'm sorry, 2B. Their circuits are fried.
+
+1252.wav
+I think they were only being kept alive by that enemy.
+
+1253.wav
+So, um...
+
+1254.wav
+That machine had some pretty weird things to say, huh?
+
+1255.wav
+It's almost like it had actual emotion.
+
+1256.wav
+Yeah, I... I guess.
+
+1257.wav
+はっ
+
+1258.wav
+This thing is awfully verbose for a machine.
+
+1259.wav
+It could be a trap.
+
+1260.wav
+Still, we should at least head over there and gather data, right?
+
+1261.wav
+It does seem awfully suspicious.
+
+1262.wav
+But I've never seen a machine that could communicate at this level.
+
+1263.wav
+and might be worth checking out.
+
+1264.wav
+Hey, I read about that in a book once.
+
+1265.wav
+Oh, right. You wouldn't have seen that before.
+
+1266.wav
+Humans would use white flags to signal surrender.
+
+1267.wav
+They're sending supplies up from Earth to the Moon in the bunker.
+
+1268.wav
+There are no spare parts or fuel in space after all.
+
+1269.wav
+Well, there are a few theories about that.
+
+1270.wav
+But no one knows for sure.
+
+1271.wav
+Hard to tell what an alien is thinking, you know?
+
+1272.wav
+I know you're not thrilled about this, Tooby, but why don't we hear what these machines have to say? I'm curious what their intentions are.
+
+1273.wav
+Dang, I lost the machine.
+
+1274.wav
+Let's go back to the theater. They might be waiting for us there.
+
+1275.wav
+Looks like it's headed this way.
+
+1276.wav
+They don't appear to be hostile.
+
+1277.wav
+Looks like they really don't want to fight.
+
+1278.wav
+There's something weird about this village.
+
+1279.wav
+We should go back and look around some more.
+
+1280.wav
+2B! We can't trust anything the machines say!
+
+1281.wav
+He just started transmitting to us directly!
+
+1282.wav
+Your mouth can say anything it wants.
+
+1283.wav
+But you still don't have a heart.
+
+1284.wav
+What's that noise?
+
+1285.wav
+A Goliath?
+
+1286.wav
+This was a trap! I knew it!
+
+1287.wav
+We can get into the city ruins if we move that box.
+
+1288.wav
+Two of them?
+
+1289.wav
+That's your R&D for you.
+
+1290.wav
+Thanks, Operator.
+
+1291.wav
+2B, Command is deploying new flight units for us.
+
+1292.wav
+They just sent the coordinates, so let's get going.
+
+1293.wav
+We probably shouldn't get near that guy's feet.
+
+1294.wav
+Yeah, no. Let's find another route.
+
+1295.wav
+The flight units should be on the roof of that building up ahead.
+
+1296.wav
+It'll be dangerous, but we're not going anywhere unless we pass through that Goliath's legs.
+
+1297.wav
+We should be careful.
+
+1298.wav
+GAH!
+
+1299.wav
+2B!
+
+1300.wav
+Displaying data on central wiring hub.
+
+1301.wav
+Let's get to those flight units while we can.
+
+1302.wav
+Got it, thanks.
+
+1303.wav
+That's a weird looking enemy.
+
+1304.wav
+Why is there such a huge cavern beneath the city?
+
+1305.wav
+2B, we picked up the signal under the caved-in area. Let's go check it out.
+
+1306.wav
+Well, we finally figured out where that signal is coming from.
+
+1307.wav
+I used command's data to determine the signal's source and marked it on the map.
+
+1308.wav
+But it seems to be underground. Like, way underground.
+
+1309.wav
+Let's go back to where we picked up that signal.
+
+1310.wav
+You're not much for plans, are you, 2B?
+
+1311.wav
+The ground is caved in.
+
+1312.wav
+There must have been a hollow down there this whole time.
+
+1313.wav
+This hallway looks pretty old.
+
+1314.wav
+Look at all these dead machines.
+
+1315.wav
+Seems like they've been here for a long time.
+
+1316.wav
+I don't know. There's nothing like it in the database.
+
+1317.wav
+Some kind of... alien facility, maybe?
+
+1318.wav
+To be! Look out!
+
+1319.wav
+You destroyed your own creators?
+
+1320.wav
+Are you insane? We'd never do that!
+
+1321.wav
+Can you believe this, 2B? This guy's bonkers!
+
+1322.wav
+I killed my father.
+
+1323.wav
+I killed my mother.
+
+1324.wav
+I killed my father.
+
+1325.wav
+I killed my mother.
+
+1326.wav
+And in his hand he coldly gripped.
+
+1327.wav
+both the joy of growing up.
+
+1328.wav
+and the agony of being alone.
+
+1329.wav
+Yeah... We better get back to the bunker.
+
+1330.wav
+Back this way again? What a pain.
+
+1331.wav
+Yeah, yeah
+
+1332.wav
+About time we had access to those.
+
+1333.wav
+Transporters? They let you transfer your consciousness to a temporary body back in the bunker.
+
+1334.wav
+I heard some tech guys talking about it a while ago, but I didn't know they'd finally got it working.
+
+1335.wav
+Anyway, I'll mark the positional data on the map.
+
+1336.wav
+Um, thank you?
+
+1337.wav
+Interesting design they went with there.
+
+1338.wav
+Still, transporters are pretty handy.
+
+1339.wav
+They're way faster than flight units when it comes to traveling between Earth and the bunker.
+
+1340.wav
+Flight units also leave us open to attack, and they're expensive to operate too.
+
+1341.wav
+You mean that freaky machine we ran into?
+
+1342.wav
+Man, the commander sure is a slave driver, huh?
+
+1343.wav
+And now we have to go back to the city ruins.
+
+1344.wav
+Why don't we rest a little bit, Tooby? It's been a while.
+
+1345.wav
+Man, this job can be pretty rough sometimes, huh?
+
+1346.wav
+I think some of us are better at that than others.
+
+1347.wav
+Speaking of emotion, those Adam and Eve units sure seemed less than logical.
+
+1348.wav
+Fine.
+
+1349.wav
+Um...
+
+1350.wav
+Let's hear them out. Maybe we'll learn more about the machine life forms.
+
+1351.wav
+Gah! Damn it!
+
+1352.wav
+Don't just go breaking into our comms like that, Pascal.
+
+1353.wav
+Um, well... kinda.
+
+1354.wav
+You mean that singing thing?
+
+1355.wav
+This... Forest Kingdom sounds like something we should check out.
+
+1356.wav
+This must be the commercial structure Pascal was talking about.
+
+1357.wav
+The records say it was once a facility known as a shopping center.
+
+1358.wav
+Maybe there's some kind of mechanism we could engage?
+
+1359.wav
+If we were human, we probably would have gone shopping and such here, right?
+
+1360.wav
+You're so serious 2B, you know that?
+
+1361.wav
+ぐわっ!
+
+1362.wav
+Who the heck is the Forest King?
+
+1363.wav
+Well, what do you expect? I'm a scanner.
+
+1364.wav
+Combat was never meant to be my forte.
+
+1365.wav
+Check this guy.
+
+1366.wav
+He's just running away.
+
+1367.wav
+Um, what's that?
+
+1368.wav
+This thing's weird, Tooby. Let's kill it!
+
+1369.wav
+Okay, what was that?
+
+1370.wav
+Looks like the forest is just ahead.
+
+1371.wav
+Here they come.
+
+1372.wav
+Better keep your guard up.
+
+1373.wav
+I will, Tooby.
+
+1374.wav
+They were talking about a king, right?
+
+1375.wav
+I saw what looked to be a castle further in. Maybe we should take a look.
+
+1376.wav
+So those machines had a king?
+
+1377.wav
+But how can a concept like loyalty be understood by a machine?
+
+1378.wav
+How are we supposed to reach that castle?
+
+1379.wav
+I can't believe these guys are so well spoken.
+
+1380.wav
+Looks like the freak show's in town.
+
+1381.wav
+Don't listen to what they're saying to be.
+
+1382.wav
+Yep, this looks like a king's castle alright.
+
+1383.wav
+To be. That's an android.
+
+1384.wav
+A Yorha-type Android.
+
+1385.wav
+Annihilation? But why?
+
+1386.wav
+TO BE!
+
+1387.wav
+But she's...
+
+1388.wav
+Operator, this is 9S. Patch me through to the commander.
+
+1389.wav
+Let's go after her, 2B.
+
+1390.wav
+Let's go after her, 2B.
+
+1391.wav
+We need to follow A2 now.
+
+1392.wav
+I'm sorry, Commander. We failed to defeat the fugitive.
+
+1393.wav
+Damn! She got away.
+
+1394.wav
+That must be the gate Pascal opened for us.
+
+1395.wav
+Commander, why did A2 desert the force?
+
+1396.wav
+Oh? Huh.
+
+1397.wav
+to be.
+
+1398.wav
+Let's go ask Pascal about A2.
+
+1399.wav
+He might know something.
+
+1400.wav
+Um, Pascal? This is 9S.
+
+1401.wav
+Yeah, we're fine. But there's something we want to ask you about.
+
+1402.wav
+Actually, it needs to be in person.
+
+1403.wav
+whether in wind or rain.
+
+1404.wav
+Thunder or Snow.
+
+1405.wav
+or even amidst the rising flames of war.
+
+1406.wav
+They were always together.
+
+1407.wav
+They never understood why.
+
+1408.wav
+and yet they spent their lives nestled together.
+
+1409.wav
+forever.
+
+1410.wav
+forever and ever.
+
+1411.wav
+It'll be faster if you just take a look at this recording.
+
+1412.wav
+I see. All right, thanks.
+
+1413.wav
+Huh?
+
+1414.wav
+Yeah, I know. I'm sorry.
+
+1415.wav
+フッ
+
+1416.wav
+Thanks, 2B.
+
+1417.wav
+There sure are a lot of hostile enemies here.
+
+1418.wav
+Why are some machines so aggressive, while others couldn't care less about us?
+
+1419.wav
+The bedrock here was bombed out in the last war.
+
+1420.wav
+Those are the missiles we're looking for.
+
+1421.wav
+Looks like the whole city is starting to sink as a result.
+
+1422.wav
+Let's take him out already so I can be home in time for dinner and a bath.
+
+1423.wav
+Yeah, but come on 2B. It still feels good.
+
+1424.wav
+I think that's the last of the machines.
+
+1425.wav
+Commander?
+
+1426.wav
+You see? Total slave driver.
+
+1427.wav
+Hmm... if you say so.
+
+1428.wav
+I'm picking up a large-scale enemy inbound.
+
+1429.wav
+Looks to be 2.8 clicks southwest of us.
+
+1430.wav
+Wait!
+
+1431.wav
+I'm still picking up a large enemy presence!
+
+1432.wav
+What on... If it's that big, we should be able to see it!
+
+1433.wav
+It's freaking huge!
+
+1434.wav
+Crap! It's blocking close-range attacks with EMP blasts!
+
+1435.wav
+We've got to find another way to damage it.
+
+1436.wav
+EMP generator?
+
+1437.wav
+Oh come on! It's got an electromagnetic barrier over its whole body?!
+
+1438.wav
+Are you Yorha?
+
+1439.wav
+To be.
+
+1440.wav
+Let's leave this area to the reinforcements.
+
+1441.wav
+I have an idea.
+
+1442.wav
+You and I should meet up at the spot I just marked.
+
+1443.wav
+We've got mortars lining the shoreline here.
+
+1444.wav
+All the EMP shielding in the world won't help against close-range mortar fire.
+
+1445.wav
+I'll help aim.
+
+1446.wav
+2B, let's try for a more direct approach.
+
+1447.wav
+That's right. Lay down some fire in its stupid mouth.
+
+1448.wav
+We gotta bail, Toopy! This is bad!
+
+1449.wav
+A to B
+
+1450.wav
+I think I have another idea.
+
+1451.wav
+You keep that thing right where it is, okay?
+
+1452.wav
+Please, Toopy, this is gonna work!
+
+1453.wav
+2B!
+
+1454.wav
+I'm going to see if we can use those missiles back on the shore.
+
+1455.wav
+But I need you to destroy the EMP unit on that thing's back.
+
+1456.wav
+Otherwise they're just going to go off course.
+
+1457.wav
+Activate missile controls.
+
+1458.wav
+Prepare to launch!
+
+1459.wav
+Fire!
+
+1460.wav
+I didn't think this would be so hard to control.
+
+1461.wav
+Well aware, thank you!
+
+1462.wav
+The child held sway over enormous strength.
+
+1463.wav
+But sadly, he was also a little bit broken.
+
+1464.wav
+He spent his long days hurting those around him.
+
+1465.wav
+He tried his best to be good and kind.
+
+1466.wav
+But despite his efforts, things never seemed to turn out.
+
+1467.wav
+They told him he was unwanted.
+
+1468.wav
+They abandoned him in the deep, dark ocean.
+
+1469.wav
+And from the cold at the bottom of the sea, he cried out.
+
+1470.wav
+Mother.
+
+1471.wav
+Mother.
+
+1472.wav
+Mother.
+
+1473.wav
+Mother.
+
+1474.wav
+But his voice never reached his mother.
+
+1475.wav
+Each of the machines treated their treasures with great care.
+
+1476.wav
+One treasured family above all else.
+
+1477.wav
+Another treasured its older sibling.
+
+1478.wav
+Another treasured its own beauty.
+
+1479.wav
+But one more machine treasured something unique above all else.
+
+1480.wav
+Hate.
+
+1481.wav
+Yeah, yeah.
+
+1482.wav
+Fine.
+
+1483.wav
+Good.
+
+1484.wav
+You got it.
+
+1485.wav
+It took long enough.
+
+1486.wav
+Don't you think it's overkill to perform a full data overhaul?
+
+1487.wav
+Alright, alright, cram it.
+
+1488.wav
+Anyway, I just gotta sync up with the bunker server and then I'm outta here, right?
+
+1489.wav
+Huh? What was that?
+
+1490.wav
+Halt the data sync.
+
+1491.wav
+Yeah, I know that, but we just got some kind of weird noise.
+
+1492.wav
+Halt the data sync for 2B as well.
+
+1493.wav
+Let's figure out where that noise came from. Just to be sure, you know?
+
+1494.wav
+Open a port to the server.
+
+1495.wav
+Hmm, no time to examine everything. Better stick to the main data nodes.
+
+1496.wav
+What's a barrier doing here?
+
+1497.wav
+Hmm. Looks like records for supplies shipped to the moon.
+
+1498.wav
+Strange... there were a ton of empty containers.
+
+1499.wav
+That's weird. Why would they do that?
+
+1500.wav
+What's the point of all this heavy security?
+
+1501.wav
+All the black box data has been deleted, but it looks like everything else is here.
+
+1502.wav
+Huh? A new port just opened.
+
+1503.wav
+Man, this stuff is all wrong.
+
+1504.wav
+I need to check this out too.
+
+1505.wav
+An attack barrier? Really?
+
+1506.wav
+Why the heck would they install one of those in this server?
+
+1507.wav
+Let's see... Looks like info about how the Council of Humanity was formed as part of Project Yorha.
+
+1508.wav
+Wait... isn't that backwards?
+
+1509.wav
+After a long period of battles and adventures, the prophets spoke.
+
+1510.wav
+Oh, grant me the mercy of the land.
+
+1511.wav
+Oh, grant me the joy of the heavens.
+
+1512.wav
+Release me from my yoke of iron.
+
+1513.wav
+Thus shall our souls be.
+
+1514.wav
+wing
+
+1515.wav
+Uh... what was that?
+
+1516.wav
+Crap! Did they find me?
+
+1517.wav
+Close the server connection and activate my body.
+
+1518.wav
+Don't do anything too reckless, Tooby. We'll meet up later on.
+
+1519.wav
+Whoa, whoa, whoa, whoa, whoa, whoa, 2B!
+
+1520.wav
+It's me, 9S!
+
+1521.wav
+I hacked into this machine from the bunker. I'm controlling it.
+
+1522.wav
+I'm gonna break into these factory systems and get you outta here!
+
+1523.wav
+I got it! I've been keeping an eye on you. I'm gonna shut off power to the factory now.
+
+1524.wav
+hacking progress at 50%.
+
+1525.wav
+Hacking progress at 80%!
+
+1526.wav
+Hacking complete!
+
+1527.wav
+2B, I just shut down the electrical grid.
+
+1528.wav
+Factory system at 20% control. You have to hold out for me, 2B.
+
+1529.wav
+Factory system at 50% control. Now we just have to do something about this core.
+
+1530.wav
+Factory system at 80% control. Hang in there, 2B.
+
+1531.wav
+90% 92 95 98
+
+1532.wav
+Operator? What happened?
+
+1533.wav
+Alright, I'll try to gain access from the main terminal.
+
+1534.wav
+Okay, good. 2B's black box signal is still up and running.
+
+1535.wav
+These comms are all messed up.
+
+1536.wav
+Guess I'll have to break into the other side and take control.
+
+1537.wav
+Nice.
+
+1538.wav
+Now I just have to unlock the door where 2B is.
+
+1539.wav
+I'd better secure an escape route.
+
+1540.wav
+If I want to reach 2B, I'll need to reach the factory's lower level first.
+
+1541.wav
+There we go. First door unlocked.
+
+1542.wav
+Uh oh, I'd better get to 2B fast.
+
+1543.wav
+2B, keep going straight!
+
+1544.wav
+Damn it! Maybe I should have taken over something with a little more power.
+
+1545.wav
+Door 2 disabled.
+
+1546.wav
+The door's open. Keep moving.
+
+1547.wav
+Look at all these broken machines.
+
+1548.wav
+A few still look usable. Better send these coordinates to the bunker, just in case.
+
+1549.wav
+It's open.
+
+1550.wav
+Exit route secured.
+
+1551.wav
+Alright, if I can hack this elevator and get it running, I can get 2B and everyone else out of here.
+
+1552.wav
+ガァッ
+
+1553.wav
+Oh
+
+1554.wav
+Those were the words I heard in the moon server.
+
+1555.wav
+But why?
+
+1556.wav
+Hmm? Ah, right.
+
+1557.wav
+Okay, good.
+
+1558.wav
+Commander
+
+1559.wav
+Understood.
+
+1560.wav
+That's what I wanted to speak with you about, Commander.
+
+1561.wav
+I found records stating that the Council of Humanity was established as part of Project Yorha.
+
+1562.wav
+But I'd always heard it was the other way around.
+
+1563.wav
+So did Yorha actually create the Council of Humanity?
+
+1564.wav
+But that means...
+
+1565.wav
+おはっ
+
+1566.wav
+But why would you?
+
+1567.wav
+Wait, you're just giving me this? But why?
+
+1568.wav
+The human race is... gone.
+
+1569.wav
+[Silent]
+
+1570.wav
+How do I tell 2B?
+
+1571.wav
+Combat stations? I better get a move on.
+
+1572.wav
+Any details?
+
+1573.wav
+What? How? They're supposed to be weakened!
+
+1574.wav
+Tooby! You okay?
+
+1575.wav
+We better hurry.
+
+1576.wav
+WHERE'S 2B?!
+
+1577.wav
+Toopy, you okay?
+
+1578.wav
+Right.
+
+1579.wav
+What do we do? There's too many!
+
+1580.wav
+Where are you going, Tooby? We need to hurry.
+
+1581.wav
+That's not the fastest way there.
+
+1582.wav
+We might make it if we go now.
+
+1583.wav
+Pascal? Come in, Pascal!
+
+1584.wav
+Damn it! They're here too!
+
+1585.wav
+It's Eve. It's gotta be.
+
+1586.wav
+You just worry about keeping the village safe, okay?
+
+1587.wav
+Looks like he's bombarding the area with forced connections.
+
+1588.wav
+I think all these transmissions are making the machines go haywire.
+
+1589.wav
+We have to find Eve and destroy him.
+
+1590.wav
+Now what?
+
+1591.wav
+What is it?
+
+1592.wav
+Damn it! We'll never get anywhere like this!
+
+1593.wav
+I'm going to try hacking into Eve and shutting him down.
+
+1594.wav
+Back me up, 2B!
+
+1595.wav
+Shit! Stupid barriers!
+
+1596.wav
+What is this?
+
+1597.wav
+Can't. Not when I'm this far in.
+
+1598.wav
+Just... a little more.
+
+1599.wav
+if I can remove Eve's object control function.
+
+1600.wav
+ガァッ
+
+1601.wav
+To be, now!
+
+1602.wav
+to be... taken down.
+
+1603.wav
+GAH!
+
+1604.wav
+I must have been corrupted when Eve detached from the network.
+
+1605.wav
+It's okay. I can always reload my backup data from the bunker.
+
+1606.wav
+Guess so.
+
+1607.wav
+But we can't upload this corrupted data to the bunker. So...
+
+1608.wav
+Hey, 2B. I was waiting for you.
+
+1609.wav
+I needed to give you this.
+
+1610.wav
+Say, 2B?
+
+1611.wav
+Ugh.
+
+1612.wav
+No, never mind. Just be careful.
+
+1613.wav
+before I could convince myself to tell to be the truth.
+
+1614.wav
+Our final major operation had begun.
+
+1615.wav
+Still, at the time, I knew nothing.
+
+1616.wav
+Not how the battle would end.
+
+1617.wav
+nor what fate stood in wait for us.
+
+1618.wav
+Um...
+
+1619.wav
+Roger.
+
+1620.wav
+The scanners are going to hack into the enemy's anti-air system and shut it down in advance of an all-out assault, right?
+
+1621.wav
+No killing the target. Got it.
+
+1622.wav
+Why are you talking to me like I'm a child?
+
+1623.wav
+Is it me, or does it seem like they're getting smarter?
+
+1624.wav
+Roger.
+
+1625.wav
+Got it.
+
+1626.wav
+Whoops.
+
+1627.wav
+You're totally treating me like a kid.
+
+1628.wav
+Fine...
+
+1629.wav
+Um, okay?
+
+1630.wav
+Almost there.
+
+1631.wav
+Boom? Is she serious?
+
+1632.wav
+A little multi-level hacking, huh?
+
+1633.wav
+I always do.
+
+1634.wav
+Yeah, yeah, no falling behind. Got it.
+
+1635.wav
+A surprise?
+
+1636.wav
+What is it?
+
+1637.wav
+And how will I provide support to the squad if I don't fight?
+
+1638.wav
+Aw, are you worried about me?
+
+1639.wav
+Wow, that's... harsh.
+
+1640.wav
+9S here, go ahead.
+
+1641.wav
+Um, just one left, I think.
+
+1642.wav
+Oh, right. I forgot about that.
+
+1643.wav
+Okay, I'll take care of it as soon as I'm done here.
+
+1644.wav
+Whew. That looks like everything.
+
+1645.wav
+Here we go.
+
+1646.wav
+Sounds like a plan.
+
+1647.wav
+Let me just mark the point on the map, and there.
+
+1648.wav
+To be.
+
+1649.wav
+Hey.
+
+1650.wav
+This is a machine I've hacked into before.
+
+1651.wav
+The operation is underway, and a few squads have already engaged the enemy.
+
+1652.wav
+I'll set off the delayed virus to see if I can damage it physically.
+
+1653.wav
+Our orders are to function as a kind of guerrilla unit that provides support as necessary.
+
+1654.wav
+I forwarded our squad's current positions to your map. You should head over there ASAP.
+
+1655.wav
+Our enemies are stragglers from the unnetworked machine life forms we fought previously.
+
+1656.wav
+Since they don't have a leader anymore, I'm thinking it should be a pretty easy job.
+
+1657.wav
+Fine.
+
+1658.wav
+Man, I can't see a thing.
+
+1659.wav
+Why are they going nuts like this? I thought Eve's network was destroyed.
+
+1660.wav
+We're heading out to support other squadrons.
+
+1661.wav
+We're heading out to support the next squad.
+
+1662.wav
+We should head to another area and provide support.
+
+1663.wav
+This battle really turned sideways on us, huh?
+
+1664.wav
+Man, this is tougher than I thought it would be.
+
+1665.wav
+Let's go help the next squadron.
+
+1666.wav
+You got it.
+
+1667.wav
+Much appreciated.
+
+1668.wav
+2B, let's move.
+
+1669.wav
+The... enemy's still here to be.
+
+1670.wav
+Are you okay?
+
+1671.wav
+Damn it! There's no end to them!
+
+1672.wav
+I gotta finish him off and help 2B!
+
+1673.wav
+I'll provide backup.
+
+1674.wav
+They... they have visual camouflage?
+
+1675.wav
+What the hell's going on here?
+
+1676.wav
+I have to protect 2B!
+
+1677.wav
+This viral attack... The EMP must have triggered it!
+
+1678.wav
+I gotta do something!
+
+1679.wav
+You okay?
+
+1680.wav
+I have to save 2P!
+
+1681.wav
+I'll remove the virus right now. Hold on.
+
+1682.wav
+They've been infected and taken over!
+
+1683.wav
+Got it.
+
+1684.wav
+That's because of their YORHA IDs!
+
+1685.wav
+2B, I need to hack into you and fry your identification circuit!
+
+1686.wav
+To be.
+
+1687.wav
+I located the unit that's jamming our comps.
+
+1688.wav
+The jamming is coming from that thing!
+
+1689.wav
+That should take care of the jamming.
+
+1690.wav
+Tobee, I have an idea!
+
+1691.wav
+It's possible to access the bunker through a backdoor in the system.
+
+1692.wav
+I can use that to initiate an emergency upload of our personal log data.
+
+1693.wav
+Then we set our black boxes to self-destruct and take them all out at once.
+
+1694.wav
+Data upload 30% complete.
+
+1695.wav
+50% complete!
+
+1696.wav
+We just hit 70%!
+
+1697.wav
+Almost. We're at 92%!
+
+1698.wav
+Tooby, your black box!
+
+1699.wav
+To be.
+
+1700.wav
+Wow.
+
+1701.wav
+The Yorha units on the ground were infected by a virus.
+
+1702.wav
+We had to detonate our black boxes in order to stop them.
+
+1703.wav
+That's because all communication with the bunker has been severed!
+
+1704.wav
+Are you nuts?
+
+1705.wav
+Damn! The doors!
+
+1706.wav
+Did the virus infiltrate the bunker itself?
+
+1707.wav
+Operator what?
+
+1708.wav
+To be! It's open!
+
+1709.wav
+Come on!
+
+1710.wav
+Stay focused, Tooby!
+
+1711.wav
+The transport terminal is corrupted. We need to get to the hangar and get some flight units.
+
+1712.wav
+It's probably because I deferred our data sync.
+
+1713.wav
+I noticed some weird noise in the bunker server data, so I paused the upload.
+
+1714.wav
+But Commander...
+
+1715.wav
+[Silent]
+
+1716.wav
+No... Oh no...
+
+1717.wav
+This signal, it's-
+
+1718.wav
+GAH!
+
+1719.wav
+You need to what?
+
+1720.wav
+Um, uh, okay.
+
+1721.wav
+Uh... w-wait! What are you-
+
+1722.wav
+NO!
+
+1723.wav
+Wait... 2B!
+
+1724.wav
+To be!
+
+1725.wav
+Where the hell is 2B?
+
+1726.wav
+Put it on the map!
+
+1727.wav
+I'm not going anywhere!
+
+1728.wav
+I'm in... the resistance camp?
+
+1729.wav
+Where's 2B?
+
+1730.wav
+Oh.
+
+1731.wav
+[Silent]
+
+1732.wav
+Thanks.
+
+1733.wav
+Apparently... What does that mean?
+
+1734.wav
+[Silent]
+
+1735.wav
+Let's check it out.
+
+1736.wav
+[Silent]
+
+1737.wav
+There's no reason for anything they do.
+
+1738.wav
+[Silent]
+
+1739.wav
+The heck was that?
+
+1740.wav
+Now they're just messing with us.
+
+1741.wav
+Two to go.
+
+1742.wav
+Seems like we'll need three authorization keys in total.
+
+1743.wav
+Hey, Pod.
+
+1744.wav
+Give me a rundown on what happened while I was resting.
+
+1745.wav
+I know.
+
+1746.wav
+Large structural units?
+
+1747.wav
+What do these units do?
+
+1748.wav
+Where's A2?
+
+1749.wav
+Alright.
+
+1750.wav
+Mark the positions of those units on my map, will ya?
+
+1751.wav
+I'm going to wipe out the machines.
+
+1752.wav
+I don't care about chain of command.
+
+1753.wav
+I have one goal now.
+
+1754.wav
+I'm going to kill every last machine.
+
+1755.wav
+And then...
+
+1756.wav
+I'm going to kill A2.
+
+1757.wav
+Is that one of our large units?
+
+1758.wav
+What's the resource it's transporting?
+
+1759.wav
+For what purpose?
+
+1760.wav
+Is this entire building made of machines? Even on the inside?
+
+1761.wav
+There's no meaning to anything they do.
+
+1762.wav
+I'll kill you. Heh.
+
+1763.wav
+That's my line.
+
+1764.wav
+Damn machines.
+
+1765.wav
+Is this writing?
+
+1766.wav
+I can't read it.
+
+1767.wav
+Okay then...
+
+1768.wav
+Machines can't feel pain.
+
+1769.wav
+Now shut up. Shut up. SHUT UP!
+
+1770.wav
+SHUT UP!
+
+1771.wav
+Machine parts.
+
+1772.wav
+Weapons, eh?
+
+1773.wav
+Pascal, that's...
+
+1774.wav
+uh you
+
+1775.wav
+Pod, search for the other structural units.
+
+1776.wav
+I need to find those authorization keys and destroy the tower.
+
+1777.wav
+It's fine. Run the search.
+
+1778.wav
+What is... that?
+
+1779.wav
+So... an elevator?
+
+1780.wav
+I'll have to try another one.
+
+1781.wav
+There's something written here too.
+
+1782.wav
+Pod, translate this.
+
+1783.wav
+No enemies?
+
+1784.wav
+What's this?
+
+1785.wav
+Oh, I get it.
+
+1786.wav
+I have to break the system protection before I can reach the core.
+
+1787.wav
+Huh. So that's how it works.
+
+1788.wav
+That huge structure is some kind of launch platform.
+
+1789.wav
+Yeah, and I hack into all of them, right?
+
+1790.wav
+A structure that size could probably shoot something into space pretty easily.
+
+1791.wav
+[Silent]
+
+1792.wav
+So this is some kind of cannon aimed at the human server on the moon?
+
+1793.wav
+Damn it.
+
+1794.wav
+The Yorra Black Box Circuitry.
+
+1795.wav
+It's made from cores from the machines?
+
+1796.wav
+That's... no!
+
+1797.wav
+That can't be true!
+
+1798.wav
+Huh? What's going on here?
+
+1799.wav
+My body.
+
+1800.wav
+Those are... my memories.
+
+1801.wav
+But why?
+
+1802.wav
+Stay the hell out!
+
+1803.wav
+my memories... to be...
+
+1804.wav
+OF MY GODDAMN MEMORIES!
+
+1805.wav
+These belong to me and me alone!
+
+1806.wav
+Shut up!
+
+1807.wav
+GET AWAY FROM THEM!
+
+1808.wav
+You're going down!
+
+1809.wav
+Pod, where's the next resource recovery unit?
+
+1810.wav
+Near field controls are down? Great.
+
+1811.wav
+I don't have that kind of time.
+
+1812.wav
+Shit
+
+1813.wav
+Uh.
+
+1814.wav
+I know.
+
+1815.wav
+Pod, mark the next resource recovery unit on the map.
+
+1816.wav
+over and over.
+
+1817.wav
+That language again.
+
+1818.wav
+God, huh?
+
+1819.wav
+What are these machines doing talking about gods?
+
+1820.wav
+Shut up!
+
+1821.wav
+Ugh... whatever.
+
+1822.wav
+Oh no...
+
+1823.wav
+So this operator model is...
+
+1824.wav
+No.
+
+1825.wav
+Operator!
+
+1826.wav
+Shit...
+
+1827.wav
+ウ� guns
+
+1828.wav
+It's alright... It's alright...
+
+1829.wav
+Because...
+
+1830.wav
+I'm going to kill you!
+
+1831.wav
+[Silent]
+
+1832.wav
+Am I?
+
+1833.wav
+operator.
+
+1834.wav
+Oh.
+
+1835.wav
+Situation report.
+
+1836.wav
+Good.
+
+1837.wav
+うっ…
+
+1838.wav
+OUTTA MY WAY!
+
+1839.wav
+Damn it! They won't stop coming!
+
+1840.wav
+Allies?
+
+1841.wav
+Tevila? Popola? I don't know.
+
+1842.wav
+What are you doing here?
+
+1843.wav
+What are you talking about?
+
+1844.wav
+None of this makes any sense!
+
+1845.wav
+んんっ
+
+1846.wav
+No, we can't just abandon them!
+
+1847.wav
+If we don't do something, they're gonna...
+
+1848.wav
+What's... this barrier?
+
+1849.wav
+I can't leave them alone. I've gotta go back!
+
+1850.wav
+Well, how do I break it down?
+
+1851.wav
+That's almost as bad as not going in at all!
+
+1852.wav
+I see.
+
+1853.wav
+I...
+
+1854.wav
+[Silent]
+
+1855.wav
+I hope you never have to understand.
+
+1856.wav
+I don't care.
+
+1857.wav
+I just have to kill them all.
+
+1858.wav
+Corrupted Yorha units!
+
+1859.wav
+I'm gonna kill you.
+
+1860.wav
+To be...
+
+1861.wav
+TO BE!
+
+1862.wav
+Don't worry.
+
+1863.wav
+I'm going to kill you now!
+
+1864.wav
+Still a few stragglers, huh?
+
+1865.wav
+んっ
+
+1866.wav
+On it.
+
+1867.wav
+You bastards!
+
+1868.wav
+SHUT UP!
+
+1869.wav
+Keep him coming.
+
+1870.wav
+I'll destroy them all.
+
+1871.wav
+All of them. And this tower!
+
+1872.wav
+What's going on?
+
+1873.wav
+So those red AIs are dead?
+
+1874.wav
+Goddamn machine.
+
+1875.wav
+Shut the hell up!
+
+1876.wav
+할
+
+1877.wav
+So what?
+
+1878.wav
+None of it matters.
+
+1879.wav
+Or didn't you know?
+
+1880.wav
+We aren't required in this world anymore.
+
+1881.wav
+Humanity is extinct.
+
+1882.wav
+That moon server you're so worried about was invented to give us androids something to fight for.
+
+1883.wav
+And Yorha was created to perpetuate the lie.
+
+1884.wav
+But in order to make sure no one ever learned the truth, we were designed to be killed.
+
+1885.wav
+They built a back door in the bunker and programmed it to activate after a certain amount of time.
+
+1886.wav
+The Commander. Me. To be.
+
+1887.wav
+Sacrificial lambs. All of us.
+
+1888.wav
+Isn't that hilarious? Doesn't it make you laugh?
+
+1889.wav
+Shut up!
+
+1890.wav
+You killed 2B.
+
+1891.wav
+That's all we need to kill each other.
+
+1892.wav
+[Silent]
+
+1893.wav
+It doesn't matter! NONE OF THIS MATTERS!
+
+1894.wav
+But if it doesn't matter, why do I long for humans like this?
+
+1895.wav
+Why do I desire the touch of something that no longer exists?!
+
+1896.wav
+Shut up! Shut up! Shut up! SHUT UP!
+
+1897.wav
+Fine then... I'll just destroy it.
+
+1898.wav
+It all goes away. That'll solve everything!
+
+1899.wav
+I... We, Yorha... We don't deserve to be loved by this world.
+
+1900.wav
+Plant life has claimed most of the central area.
+
+1901.wav
+Big plants too.
+
+1902.wav
+Hmm. I wonder if there are any huge boars in such, too.
+
+1903.wav
+Huh.
+
+1904.wav
+It's not moving. Maybe just a statue?
+
+1905.wav
+No response.
+
+1906.wav
+ああっ
+
+1907.wav
+Die!
+
+1908.wav
+A to B. I've been thinking about something.
+
+1909.wav
+Do you think this Sartre fellow is being a little too... I don't know... glorified?
+
+1910.wav
+Do you think this s***er fellow is being a little too... I don't know... glorified?
+
+1911.wav
+This is exhausting.
+
+1912.wav
+Sartre doesn't care at all about anyone but himself.
+
+1913.wav
+And yet his followers just keep talking about how great he is.
+
+1914.wav
+What's the point of all this? And what's he even getting out of it?
+
+1915.wav
+Well, he's nothing if not consistent. A weirdo right to the very end.
+
+1916.wav
+I wonder if all his followers being female had something to do with his weirdness. Did the human sexes interact with each other like this?
+
+1917.wav
+doesn't care at all about anyone but himself.
+
+1918.wav
+Hang on, Tooby.
+
+1919.wav
+Maybe we should ask an operator.
+
+1920.wav
+This machine is still alive.
+
+1921.wav
+9S to operator. Quick question. Do you know where we might find a pristine screw?
+
+1922.wav
+Maybe we should hold off.
+
+1923.wav
+Thanks, Operator. 9S out.
+
+1924.wav
+Its main drive has been trashed, so there's no way it can attack us.
+
+1925.wav
+and we might be able to learn something interesting if we study it.
+
+1926.wav
+Let's go.
+
+1927.wav
+If they're used in large bipedal machines, we might find them in other large machines as well.
+
+1928.wav
+The more data we have, the better, right?
+
+1929.wav
+We can use this screw to repair that big machine.
+
+1930.wav
+Just how it was manufactured. Pretty boring, actually.
+
+1931.wav
+Let's try the operator again.
+
+1932.wav
+9S to operator, we're trying to track down a large gear. Any idea where to start the search?
+
+1933.wav
+Roger.
+
+1934.wav
+Okay, that should be everything we need to repair the machine.
+
+1935.wav
+Thanks, Operator. That's good to know.
+
+1936.wav
+Heh. Straight to the point as always, 2B.
+
+1937.wav
+Yeah, most of the gears were too damaged to use.
+
+1938.wav
+Come on now, 2B.
+
+1939.wav
+What a strange machine.
+
+1940.wav
+Wow, it just chose death.
+
+1941.wav
+Huh? How so?
+
+1942.wav
+to be.
+
+1943.wav
+What was all that about?
+
+1944.wav
+So this machine mother has a child, eh?
+
+1945.wav
+It's surprising to see them form familial units like that.
+
+1946.wav
+I wonder if they'll let us examine their brain circuits if we bring the kid home.
+
+1947.wav
+Joking, I'm joking. Mostly.
+
+1948.wav
+Careful, Tooby. I'm picking up hostiles.
+
+1949.wav
+Easy there, little guy. It's alright. You weren't scared, were you?
+
+1950.wav
+Come on, kid, don't be unreasonable.
+
+1951.wav
+Any ideas to be? I've never dealt with a snot-nosed machine before.
+
+1952.wav
+Uh oh, more enemies incoming!
+
+1953.wav
+Are you finished?
+
+1954.wav
+Your mother is worried about you. She sent us here to find you.

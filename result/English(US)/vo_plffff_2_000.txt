@@ -1,0 +1,320 @@
+0.wav
+Is that our target?
+
+1.wav
+You don't say.
+
+2.wav
+Copy that.
+
+3.wav
+No, just another defensive system.
+
+4.wav
+Alright, I'll work my way inside from the ground.
+
+5.wav
+I know.
+
+6.wav
+What is it?
+
+7.wav
+Do it.
+
+8.wav
+So open it.
+
+9.wav
+Nothing's ever easy.
+
+10.wav
+Why?
+
+11.wav
+Emotions are prohibited.
+
+12.wav
+and another thing.
+
+13.wav
+Stop calling me ma'am.
+
+14.wav
+It's unnecessary.
+
+15.wav
+This place sure is big.
+
+16.wav
+So if we don't destroy it, they'll just keep coming.
+
+17.wav
+What?
+
+18.wav
+That city.
+
+19.wav
+No.
+
+20.wav
+Is that?
+
+21.wav
+I surveyed the entire factory, but couldn't find anything resembling our target.
+
+22.wav
+ふむ
+
+23.wav
+I wouldn't bet on that.
+
+24.wav
+Doesn't matter. I'll just take him out.
+
+25.wav
+This is the target. I'm going to destroy it.
+
+26.wav
+9S!
+
+27.wav
+I'm going after him!
+
+28.wav
+Send a support request to command.
+
+29.wav
+I have to help 9S.
+
+30.wav
+It talks? I didn't know the machines had that kind of intelligence.
+
+31.wav
+I told you to shut up!
+
+32.wav
+Seize its control system!
+
+33.wav
+Got it.
+
+34.wav
+You're 2B, right?
+
+35.wav
+My name's 9S. I'm here to provide support.
+
+36.wav
+So, was that big ol' buzzsaw the Goliath you came here to take out?
+
+37.wav
+Oh, well, uh, I guess we have to find the target then, huh?
+
+38.wav
+I've got a flight unit, so I'll take a look around the perimeter.
+
+39.wav
+To be... a... man?
+
+40.wav
+I was going to send you the map data I collected earlier.
+
+41.wav
+You know ma'am, I'm glad you're here.
+
+42.wav
+Scanners like me mostly work alone, scouting out enemy lines and all that.
+
+43.wav
+I don't usually get a partner. It's kinda fun!
+
+44.wav
+Sorry, ma'am.
+
+45.wav
+Huh?
+
+46.wav
+Alright then, 2B it is.
+
+47.wav
+I guess humans used to use it as a weapons factory.
+
+48.wav
+But now it's just crawling with machines.
+
+49.wav
+The enemy seems to have repurposed the facility to increase their overall machine production.
+
+50.wav
+It's just accessing random, nonsensical data from the old world.
+
+51.wav
+There's no actual meaning behind anything machines do.
+
+52.wav
+Ah, yeah. Lots of humans used to live over there.
+
+53.wav
+Is this your first time seeing it?
+
+54.wav
+You mean the birds?
+
+55.wav
+Yeah, there's more plants and animals here than there used to be. Probably because the environment's changed.
+
+56.wav
+Yeah, I didn't find anything either.
+
+57.wav
+Maybe they... I don't know, moved it somewhere?
+
+58.wav
+There should be another facility across that bridge.
+
+59.wav
+It's a bit of a hike, but should we check it out?
+
+60.wav
+It's not like command to get a location wrong. I guess even they get bad intel from time to time, huh?
+
+61.wav
+What's your status?
+
+62.wav
+Uh, right. I'll provide support.
+
+63.wav
+I'll hack this thing and weaken it!
+
+64.wav
+Hacking in!
+
+65.wav
+to be. I found a weakness in the target.
+
+66.wav
+hacking in... to provide support.
+
+67.wav
+to be the control on the enemy's upper arm.
+
+68.wav
+You should pod... should be able to... take it over...
+
+69.wav
+Control of upper arm... seized from enemy unit.
+
+70.wav
+Marking weak point.
+
+71.wav
+HELLO? HELLO? HELLO? HELLO? HELLO?
+
+72.wav
+F 1 F F F F F
+
+73.wav
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+74.wav
+[Silent]
+
+75.wav
+[Silent]
+
+76.wav
+Block 43 to Block 12, materials en route. Work Party B, proceed to Cafeteria 25, you have three minutes to consume your lunch. Block 14 to Block 8, materials en route. Block 64 to Block 32, materials en route. Thank you for another day of hard work. Please enjoy the job well done. Thank you for watching.
+
+77.wav
+Work Party B, proceed to Cafeteria 25. You have 15 minutes to consume your lunch.
+
+78.wav
+Block 14 to Block 8, materials en route.
+
+79.wav
+Block 64 to Block 13, materials en route.
+
+80.wav
+Thank you for another day of hard work. Please bask in the joy of a job well done.
+
+81.wav
+2B, I'm tricking you into your podport.
+
+82.wav
+Negative. This enemy is unrelated.
+
+83.wav
+Proposal dispatch it as swiftly as possible
+
+84.wav
+Laser communications recovered.
+
+85.wav
+Part program download complete.
+
+86.wav
+Alert! Bullion-proof apparatus detected on enemies.
+
+87.wav
+Analysis. This elevator's controls are locked and cannot be used.
+
+88.wav
+Close range combat is advised.
+
+89.wav
+Exit. Confirmed closed.
+
+90.wav
+Negative. Nearby enemies are jamming our signal.
+
+91.wav
+Alert! High power jamming detected.
+
+92.wav
+No response from long-range communications.
+
+93.wav
+Alert! Incoming enemy attack from below.
+
+94.wav
+Proposal evade.
+
+95.wav
+9S black box signal detected.
+
+96.wav
+No response to communications.
+
+97.wav
+Negative. Communications have been jammed.
+
+98.wav
+Affirmative.
+
+99.wav
+Infiltrating enemy subunit.
+
+100.wav
+Behavior table adjusted.
+
+101.wav
+Balance Controls Overridden.
+
+102.wav
+Enemy unit subjugation complete.
+
+103.wav
+Enemy analysis complete.
+
+104.wav
+Software vulnerabilities and penetration path detected.
+
+105.wav
+Displaying on HUD.
+
+106.wav
+Weakness is found in enemy units.

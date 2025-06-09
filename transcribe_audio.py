@@ -29,13 +29,13 @@ def transcribe_audio_files(audio_dir, result_dir):
     # Regular expression to detect "noisy" transcriptions (screams, sighs, etc.)
     noise_pattern = re.compile(r'^(ahh+|ugh+|ohh+|huh+|eek+|grr+|mmm+|noo+|aahh+|hmmm+|AHHHH+|NOOOO+)\s*[!\-]?$', re.IGNORECASE)
     
-    # Dictionary to store transcriptions by folder
-    transcriptions_by_folder = {}
-    
     # Walk through all files in the directory
     for root, _, files in os.walk(audio_dir):
         # Sort files by name to process in order (0.wav, 1.wav, ...)
         files.sort(key=lambda x: int(os.path.splitext(x)[0]) if os.path.splitext(x)[0].isdigit() else x)
+        
+        # List to store transcriptions for the current folder
+        transcriptions = []
         
         for file_name in files:
             if file_name.endswith('.wav'):
@@ -48,28 +48,15 @@ def transcribe_audio_files(audio_dir, result_dir):
                     # Check for "noisy" transcriptions
                     is_noise = bool(noise_pattern.match(transcript_text))
                     
-                    # Determine relative path from the input directory
-                    relative_path = os.path.relpath(root, audio_dir)
-                    
-                    # Folder name (e.g., vo_plffff_1_000) will be the output file name
-                    folder_name = os.path.basename(root)
-                    
-                    # Full path for the key (to account for folder structure)
-                    folder_key = relative_path
-                    
-                    # Initialize transcription list for this folder if not present
-                    if folder_key not in transcriptions_by_folder:
-                        transcriptions_by_folder[folder_key] = []
-                    
                     # Format text for output
                     if not transcript_text:
-                        transcriptions_by_folder[folder_key].append(f"{file_name}\n[Silent]\n")
+                        transcriptions.append(f"{file_name}\n[Silent]\n")
                         logging.info(f"No speech detected in {audio_path}, marked as [Silent].")
                     else:
                         final_text = transcript_text
                         if is_noise:
                             final_text = f"[Possible Noise] {transcript_text}"
-                        transcriptions_by_folder[folder_key].append(f"{file_name}\n{final_text}\n")
+                        transcriptions.append(f"{file_name}\n{final_text}\n")
                     
                     logging.info(f"Transcription for {audio_path}: {transcript_text if transcript_text else '[Silent]'}")
                     if is_noise:
@@ -78,22 +65,25 @@ def transcribe_audio_files(audio_dir, result_dir):
                 
                 except Exception as e:
                     logging.error(f"Error processing {audio_path}: {e}")
-    
-    # Save results to files
-    for folder_key, transcriptions in transcriptions_by_folder.items():
-        # Create path for the output file
-        result_subdir = os.path.dirname(os.path.join(result_dir, folder_key))
-        Path(result_subdir).mkdir(parents=True, exist_ok=True)
         
-        # File name is the last folder name (e.g., vo_plffff_1_000.txt)
-        folder_name = os.path.basename(folder_key)
-        transcript_file_path = os.path.join(result_subdir, f"{folder_name}.txt")
-        
-        # Write all transcriptions to a single file
-        with open(transcript_file_path, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(transcriptions))
-        
-        logging.info(f"All transcriptions saved to {transcript_file_path}")
+        # Save results for the current folder immediately
+        if transcriptions:
+            # Determine relative path from the input directory
+            relative_path = os.path.relpath(root, audio_dir)
+            
+            # Create path for the output file
+            result_subdir = os.path.dirname(os.path.join(result_dir, relative_path))
+            Path(result_subdir).mkdir(parents=True, exist_ok=True)
+            
+            # File name is the last folder name (e.g., vo_plffff_1_000.txt)
+            folder_name = os.path.basename(root)
+            transcript_file_path = os.path.join(result_subdir, f"{folder_name}.txt")
+            
+            # Write transcriptions to the file
+            with open(transcript_file_path, 'w', encoding='utf-8') as f:
+                f.write('\n'.join(transcriptions))
+            
+            logging.info(f"Transcriptions for folder {relative_path} saved to {transcript_file_path}")
     
     logging.info("Transcription completed.")
 

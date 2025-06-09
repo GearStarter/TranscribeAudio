@@ -1,0 +1,335 @@
+0.wav
+Whoa!
+
+1.wav
+Nooooooooooooooooooooooooooooooooo nooooooo
+
+2.wav
+Origin point of long-range lasers confirmed.
+
+3.wav
+11B, down.
+
+4.wav
+Our HO-229 cancellers are ineffective.
+
+5.wav
+7e down.
+
+6.wav
+Everything that lives is designed to end.
+
+7.wav
+We are perpetually trapped.
+
+8.wav
+in a never-ending spiral of life and death.
+
+9.wav
+Is this a curse?
+
+10.wav
+or some kind of punishment?
+
+11.wav
+I often think about the god who blessed us with this cryptic puzzle.
+
+12.wav
+and wonder if we'll ever have the chance to kill him.
+
+13.wav
+To be here, all units have penetrated the stratosphere.
+
+14.wav
+Autopilot systems green across the board.
+
+15.wav
+We've passed the 50 kilometer threshold and are proceeding toward the target.
+
+16.wav
+Understood.
+
+17.wav
+12H down.
+
+18.wav
+All units activate manual mode and rely on visuals to evade.
+
+19.wav
+Requesting permission to engage.
+
+20.wav
+1D down. Assuming Captain's duties.
+
+21.wav
+Multiple surrounding enemy air units confirmed. Requesting permission to assume mobile configuration.
+
+22.wav
+4B down.
+
+23.wav
+2B to operator 6-0.
+
+24.wav
+All allied units down.
+
+25.wav
+The operation is compromised, awaiting further orders.
+
+26.wav
+Understood.
+
+27.wav
+んっ
+
+28.wav
+9S
+
+29.wav
+Thank you.
+
+30.wav
+for uploading my data to the bunker.
+
+31.wav
+I see.
+
+32.wav
+I'm fine 9S. There's something about your voice that calms me.
+
+33.wav
+Captain, I think...
+
+34.wav
+So... mission complete and all that, huh?
+
+35.wav
+The Goliaths were wiped out and we secured a route into enemy territory. Now we can-
+
+36.wav
+Yeah?
+
+37.wav
+[Silent]
+
+38.wav
+Um, I did that? Sorry, I don't remember.
+
+39.wav
+There wasn't a whole lot of bandwidth down there, you know?
+
+40.wav
+I probably only had enough time to back up your memories.
+
+41.wav
+Mine are only intact up to the point just before we rendezvoused.
+
+42.wav
+Initializing Systems
+
+43.wav
+2B, can you hear me? I'm starting your boot sequence.
+
+44.wav
+Pull up the settings screen.
+
+45.wav
+First you'll want to check your brightness settings.
+
+46.wav
+Hmm? You don't know how to adjust the brightness? I think it's set up to respond to some kind of input.
+
+47.wav
+Eh, alright. Just give me a second here.
+
+48.wav
+Okay, I found the guide. If you can just follow that, it'll make things easier.
+
+49.wav
+Right then, let's get started.
+
+50.wav
+We'll go through each adjustment in order.
+
+51.wav
+Okay, how does this look?
+
+52.wav
+Roger that.
+
+53.wav
+Oh, and I should probably let you know that this entire process is being recorded for posterity.
+
+54.wav
+Now let's take a look at your voice recognition settings.
+
+55.wav
+Seems your voice recognition is set to mute, which isn't gonna work. I'm gonna call out to you now. Make sure you can hear my voice.
+
+56.wav
+Ma'am? Are you there? Can you hear me?
+
+57.wav
+Uh, hello? Go ahead and adjust your settings so you can hear me, alright?
+
+58.wav
+Adjust the settings until you can hear my voice.
+
+59.wav
+Uh, could you try and pick up the pace a little bit? This is getting embarrassing.
+
+60.wav
+Wait, you shouldn't be able to hear me now.
+
+61.wav
+Alright, are we good now?
+
+62.wav
+Okay, settings should all be good to go.
+
+63.wav
+Oh, uh... Thank you. Anyway, that takes care of the settings.
+
+64.wav
+What the heck? My pulse rate is rising.
+
+65.wav
+Hmm. It seems to be back to normal now. How odd.
+
+66.wav
+Hold on. Your self-destruct permissions are missing. Wait a sec, we need to restore those.
+
+67.wav
+I could set it for you, but you should probably do it yourself. Regulations and all, you know?
+
+68.wav
+Huh? Wait, no, you need to leave that turned on.
+
+69.wav
+Yeah, you can't really do that. It needs to be turned on except in very specific cases.
+
+70.wav
+I'm afraid I can't leave this as is, ma'am. Please give your permission.
+
+71.wav
+Hey, come on now. I'm just trying to follow regulations here.
+
+72.wav
+Okay, good. If things go wrong during an OP, you may have to sacrifice yourself in order to finish it, so...
+
+73.wav
+Once you're finished making adjustments, you can go ahead and close this out.
+
+74.wav
+Oh, I see you've turned vibration detection on. Let's run a check to make sure it's working.
+
+75.wav
+I'm gonna tap you on the shoulders, alright?
+
+76.wav
+How was that? Did you feel it?
+
+77.wav
+Okay, check complete.
+
+78.wav
+Huh? That's odd. Everything should be set up correctly.
+
+79.wav
+Here, let me try somewhere else. I'm gonna tap you on the arm this time, okay?
+
+80.wav
+Did you feel that?
+
+81.wav
+Okay, check complete.
+
+82.wav
+Huh? Really?
+
+83.wav
+Tooby must have felt that. Maybe she's just messing with me.
+
+84.wav
+Well, if you say so... How about this?
+
+85.wav
+Should I tap her here though? She might get angry at me.
+
+86.wav
+Uh, how was that?
+
+87.wav
+Okay, check complete.
+
+88.wav
+Are you serious?
+
+89.wav
+You didn't feel anything just now?
+
+90.wav
+Well then, let's try something else.
+
+91.wav
+No turning back now, I guess.
+
+92.wav
+Well...
+
+93.wav
+Okay, great. Thanks.
+
+94.wav
+Hmm. I don't know what's causing this, so we'll need to run some precision diagnostics later.
+
+95.wav
+Regardless, that's the end of the check for now.
+
+96.wav
+I know no one likes the idea of self-destructing.
+
+97.wav
+but that's what regulations call for. Still, I'll keep it a secret from the commander.
+
+98.wav
+You don't want to hear my voice? I mean, it's your choice and all, but...
+
+99.wav
+You undid the settings I walked you through.
+
+100.wav
+Uh... this isn't about me, is it? Because I'm really hoping we'll be a good team going forward.
+
+101.wav
+Heh. Ma'am, you fiddled with so many things, I ended up hitting my Mac's storage limit. I'll have to stop recording for now.
+
+102.wav
+This is command. Yorha squadron, come in.
+
+103.wav
+This is operator 6-0. All units confirmed.
+
+104.wav
+Understood. Once you reach their anti-air defenses, proceed to manual attack formation.
+
+105.wav
+then destroy the Goliath class unit by any means necessary and gather what data you can.
+
+106.wav
+Permission granted.
+
+107.wav
+Permission granted.
+
+108.wav
+Uh, Operator to 2B.
+
+109.wav
+We need you to rendezvous with Unit 9S and begin gathering data on the local terrain.
+
+110.wav
+Already engaged. Free movement unlocked.
+
+111.wav
+Alert! Enemy unit sighted ahead.

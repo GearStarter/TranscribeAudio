@@ -1,0 +1,470 @@
+0.wav
+If you'd like to have your card stamped, please come this way.
+
+1.wav
+Right then, here you are.
+
+2.wav
+You've already received the stamp for this attraction.
+
+3.wav
+Share, you may help with us.
+
+4.wav
+No more fighting!
+
+5.wav
+Spread the word throughout the world!
+
+6.wav
+LIT CHILD FUN!
+
+7.wav
+A BANANACAL MUTURAIN
+
+8.wav
+Ah, help me! Please help me!
+
+9.wav
+We did not come here to fight!
+
+10.wav
+Please help.
+
+11.wav
+All we need is love
+
+12.wav
+[Possible Noise] NOOOOOOOOOOOOO
+
+13.wav
+Ka jetzt Tamam
+
+14.wav
+I don't want to fight!
+
+15.wav
+Happy next to all!
+
+16.wav
+Revenge. Claim your revenge.
+
+17.wav
+Avenge the pain of our comrades!
+
+18.wav
+I hate androids. Hate them.
+
+19.wav
+Change them! Kill them! Destroy them all!
+
+20.wav
+Violence rules this world! Violence is all!
+
+21.wav
+Go eat and everyone.
+
+22.wav
+Tear apart those who resist us!
+
+23.wav
+Kill, kill, kill, kill, kill, kill!
+
+24.wav
+Burn them to death! Crush them to death!
+
+25.wav
+Drain their blood, every drop.
+
+26.wav
+KILL THEM ALL! I'VE HAD THE MOST SACRIFICED FIGHTING ALTER!
+
+27.wav
+I feel so, so alive.
+
+28.wav
+You will die arriving in pain!
+
+29.wav
+All hail the machines!
+
+30.wav
+Hahaha!!!
+
+31.wav
+Nya-ya-ya-ya-ya!
+
+32.wav
+Three.
+
+33.wav
+to
+
+34.wav
+Bye.
+
+35.wav
+Go!
+
+36.wav
+Ah, 2B.
+
+37.wav
+Ah, 2B.
+
+38.wav
+Maintenance finished.
+
+39.wav
+Maintenance finished.
+
+40.wav
+You detonated your black box in order to defeat the enemy.
+
+41.wav
+You detonated your black box in order to defeat the enemy.
+
+42.wav
+Bold, but risky. Try not to be so reckless next time.
+
+43.wav
+Bold, but risky. Try not to be so reckless next time.
+
+44.wav
+I know you're fresh out of maintenance, but I have another mission for you.
+
+45.wav
+I know you're fresh out of maintenance, but I have another mission for you.
+
+46.wav
+I need you to head to the surface, rendezvous with the resistance and do some recon.
+
+47.wav
+I need you to head to the surface, rendezvous with the resistance and do some recon.
+
+48.wav
+We haven't been able to get in touch with them.
+
+49.wav
+We haven't been able to get in touch with them.
+
+50.wav
+So we'll need you to look into that as well.
+
+51.wav
+So we'll need you to look into that as well.
+
+52.wav
+2B9S. We've lost contact with several URHEL units that were on their way to the surface.
+
+53.wav
+Their black boxes are online, so we presume they're still alive.
+
+54.wav
+We've tracked the location of their signals.
+
+55.wav
+So I need all your units on the surface to head over and investigate.
+
+56.wav
+Yorha, this is your commander.
+
+57.wav
+For the first time in centuries, we've intercepted a signal belonging to the aliens.
+
+58.wav
+These are the creatures that are in direct command of the machine life forms on this planet.
+
+59.wav
+If we can destroy them, we can end this long and arduous war once and for all.
+
+60.wav
+Our Intel team is hard at work attempting to analyze the source of the signal, but we're not there yet.
+
+61.wav
+We need more data.
+
+62.wav
+All YORHHA units are hereby ordered to prioritize data collection above all else.
+
+63.wav
+We can't let this chance slip through our fingers.
+
+64.wav
+Glory to mankind.
+
+65.wav
+Then they were dead this whole time.
+
+66.wav
+The Council of Humanity needs time to formulate a plan.
+
+67.wav
+Until then, this information must be kept confidential.
+
+68.wav
+Speak of it to no one.
+
+69.wav
+Your next mission is to gather additional intel on the individual known as Pascal.
+
+70.wav
+This order comes directly from the council.
+
+71.wav
+Knowledge of such unique individuals is essential for the success of future missions.
+
+72.wav
+Bunker to 2B and 9S.
+
+73.wav
+We've picked up a signal from the black box of a fugitive known as A2.
+
+74.wav
+What you see in front of you is your enemy.
+
+75.wav
+She deserted us. She's destroyed multiple Pursuit Androids.
+
+76.wav
+Now kill her before she kills you.
+
+77.wav
+I see.
+
+78.wav
+Well, at least you're both safe.
+
+79.wav
+That's an incredibly powerful unit you just faced.
+
+80.wav
+You should probably keep your distance in the future.
+
+81.wav
+Mm.
+
+82.wav
+I'm afraid that's classified.
+
+83.wav
+2B 9S, come in.
+
+84.wav
+Emergency orders incoming.
+
+85.wav
+The carrier ship that was set to resupply has come under attack.
+
+86.wav
+It's currently being engaged by a swarm of machines.
+
+87.wav
+I've asked all Yorha troops in the city ruins for assistance, and I'll need you to provide backup as well.
+
+88.wav
+I'm sending flight units and coordinates now.
+
+89.wav
+Good luck. Out.
+
+90.wav
+to be.
+
+91.wav
+Good job destroying that machine.
+
+92.wav
+Upon further analysis, we learned that the machine, code named Adam, was responsible for managing half of their entire network.
+
+93.wav
+A disruption of this magnitude to their network should weaken the machine significantly.
+
+94.wav
+He'll undergo a full data overhaul up here.
+
+95.wav
+Assuming we don't encounter any problems, we're planning to partner him with you again.
+
+96.wav
+In the meantime, I have another mission for you.
+
+97.wav
+I've mailed you the briefing. Go ahead and take a look.
+
+98.wav
+9S
+
+99.wav
+I'm sorry, you're needed back at command.
+
+100.wav
+[Silent]
+
+101.wav
+You left quite a trail when you accessed the main server.
+
+102.wav
+[Silent]
+
+103.wav
+[Silent]
+
+104.wav
+Yes.
+
+105.wav
+We installed the Council of Humanities server on the surface of the Moon.
+
+106.wav
+Mankind no longer exists.
+
+107.wav
+In truth, humans never went to the moon at all.
+
+108.wav
+Any transmissions received from the Moon are just dummy signals we set up in advance.
+
+109.wav
+The only thing there is a small bit of data relating to the human genome.
+
+110.wav
+Humans were already extinct when the aliens attacked.
+
+111.wav
+All the details are stored on this memory chip.
+
+112.wav
+If you want to look at it, I won't stop you.
+
+113.wav
+[Silent]
+
+114.wav
+No one fights without a reason.
+
+115.wav
+And we need a god worth dying for.
+
+116.wav
+To be 9S.
+
+117.wav
+What are you doing here?
+
+118.wav
+A virus? What are you talking about?
+
+119.wav
+None of our ground units reported anything about a virus.
+
+120.wav
+And why did you leave the battlefield anyway? I didn't order a retreat.
+
+121.wav
+んっ
+
+122.wav
+No.
+
+123.wav
+If anyone is acting infected here, it's you.
+
+124.wav
+How is that even possible?
+
+125.wav
+Damn it!
+
+126.wav
+But tell me, why weren't you two infected?
+
+127.wav
+I see.
+
+128.wav
+I too was synced up with the server.
+
+129.wav
+There's no time.
+
+130.wav
+You two are the last remaining members of Yorha.
+
+131.wav
+It's your duty to survive.
+
+132.wav
+Besides, this is my command.
+
+133.wav
+Let me at least fulfill my duty here to the end.
+
+134.wav
+[Silent]
+
+135.wav
+Normally you'd be called, but we'll be calling to be.
+
+136.wav
+Continue to observe the situation and dispatch them.
+
+137.wav
+Bunker to 2B.
+
+138.wav
+The signal from the access point just came back online. Good job.
+
+139.wav
+Go on.
+
+140.wav
+which means they know that Facility is one of our network terminals.
+
+141.wav
+Damn, they're getting smarter by the day.
+
+142.wav
+Thank you. I'll be sure to share this with the Council of Humanity on the Moon.
+
+143.wav
+All units, be on the lookout for a missing Yorha in the city ruins.
+
+144.wav
+This unit was in possession of several plug-in chips that contain classified information.
+
+145.wav
+I need you to seek out whatever intel you can regarding their current whereabouts and status.
+
+146.wav
+Hello, this is the Resource Recovery Unit, now activating Defense Mode.
+
+147.wav
+ああ
+
+148.wav
+You beat that thing with surface-based gear? That's a surprise.
+
+149.wav
+Thanks for the backup.
+
+150.wav
+You guys are amazing!
+
+151.wav
+Thanks, we owe you one.
+
+152.wav
+うぅ…
+
+153.wav
+Thank you.
+
+154.wav
+9S... that's that kid who was with you, right?
+
+155.wav
+I saw him all right. That explosion sent him flying.
+
+156.wav
+Hard to say. I'll take my best guess at a landing spot and transfer the data to you.

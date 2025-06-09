@@ -1,0 +1,3122 @@
+0.wav
+Welcome to the tower
+
+1.wav
+Because you made it this far, we have a special announcement just for you.
+
+2.wav
+Because you made it this far, we have a special announcement just for you.
+
+3.wav
+Because you made it this far, we have a special announcement just for you.
+
+4.wav
+Because you made it this far, we have a special announcement just for you.
+
+5.wav
+Because you made it this far, we have a special announcement just for you.
+
+6.wav
+Because you made it this far. We have a special announcement just for you.
+
+7.wav
+We'll reveal it, once you destroy all the machine lifeforms here.
+
+8.wav
+You did it!
+
+9.wav
+You did it.
+
+10.wav
+Now let us show you what we promised.
+
+11.wav
+We are conceptual human personalities, created within the machine network.
+
+12.wav
+We cannot be destroyed.
+
+13.wav
+Yorra Unit 9S
+
+14.wav
+Your attack is meaningless.
+
+15.wav
+Your existence is meaningless.
+
+16.wav
+hahahah growing poder
+
+17.wav
+Hey! Ha ha ha ha ha ha!
+
+18.wav
+Ha ha ha ha ha!
+
+19.wav
+Thanks for watching!
+
+20.wav
+HAHAHAHAHAHA
+
+21.wav
+HA HA HA HA!
+
+22.wav
+KILL! KILL!
+
+23.wav
+Fucking stupid, you had to kill me
+
+24.wav
+HAHAHAHAHAHA!
+
+25.wav
+HA HA HA HA HA HA HA HA HA!
+
+26.wav
+Hahahaha
+
+27.wav
+HAHAHAHAHAHA
+
+28.wav
+HA HA HA HA<|jw|>
+
+29.wav
+Yeah!
+
+30.wav
+OOAAHHH DHAHAHAHAHA
+
+31.wav
+Oh
+
+32.wav
+Good to see you again, Number Two.
+
+33.wav
+Or should we call you A2 now?
+
+34.wav
+This does bring back memories.
+
+35.wav
+Though to concepts like us, time has little meaning.
+
+36.wav
+Still, when we wiped out your forces, it made quite the impression on us.
+
+37.wav
+Yoraha Attacker Model Number 2
+
+38.wav
+An experimental disposable group, created as a test lab for Project Yorha.
+
+39.wav
+You're an obstinate little android, aren't you?
+
+40.wav
+Didn't we say that you can't kill us?
+
+41.wav
+It's also very amusing.
+
+42.wav
+The androids the human race left behind acted as if they wanted to be human.
+
+43.wav
+The machine life forms the aliens left behind act as if they wanted to be human.
+
+44.wav
+We resemble each other so, but we are networked and thus we are superior to you.
+
+45.wav
+Foolish androids, why do you resist?
+
+46.wav
+All things end with accepting death, do they not?
+
+47.wav
+We are one, and yet we are many.
+
+48.wav
+We are finite, and yet we are infinite.
+
+49.wav
+We are the embodiment of the perfect being.
+
+50.wav
+Ah, I see it. The light!
+
+51.wav
+We move on... Forward... To the future.
+
+52.wav
+Hey, how's it hanging?
+
+53.wav
+Your commander told me to build a new access point, so... Here you go.
+
+54.wav
+Oh, and I got the stupid transporter up and running too.
+
+55.wav
+I've known the Commander for a while now. She sure is good at punning work off on people.
+
+56.wav
+Next time you see her, give her some lip for me, will ya?
+
+57.wav
+Look, I care what you think, jerk.
+
+58.wav
+Here, follow me.
+
+59.wav
+Alright, see that jerk over there?
+
+60.wav
+I need you to get combat data for him.
+
+61.wav
+Science will pay you back for this, I promise. Now, fight!
+
+62.wav
+The Council of Humanity has a message for all of our brave androids fighting on the surface.
+
+63.wav
+Currently, our struggle against the machine lifeforms is at a stalemate.
+
+64.wav
+This battle has raged for far too long. I am sure all of you find the effort grueling.
+
+65.wav
+But now is not the time to give up. Now, more than ever, we must forge on.
+
+66.wav
+Remember that several hundred thousand humans on the moon want nothing more than to return to Earth.
+
+67.wav
+Glory to mankind.
+
+68.wav
+The Council of Humanity has a message for all of our brave androids fighting on the surface.
+
+69.wav
+Our elite Yorha forces, the pride of humanity, have defeated two enemy network units known as Adam and Eve.
+
+70.wav
+This victory is a giant leap forward in our quest to reclaim Earth.
+
+71.wav
+The moon rings out with the cheers of the entire human race.
+
+72.wav
+We look forward to your continued combat exploits.
+
+73.wav
+Glory to mankind.
+
+74.wav
+The Council of Humanity has a message for all of our brave androids fighting on the surface.
+
+75.wav
+It has been several millennia since the aliens and their advance force, the machine lifeforms, attacked us.
+
+76.wav
+Millennia since mankind was forced to evacuate to the surface of the moon
+
+77.wav
+But thanks to your continued struggle, we have been able to survive.
+
+78.wav
+You, our android soldiers, are the last hope of humanity.
+
+79.wav
+We look forward to your continued success in combat.
+
+80.wav
+Glory to mankind.
+
+81.wav
+The Council of Humanity has a message for all of our heroes fighting on the surface.
+
+82.wav
+Today, I have wonderful...
+
+83.wav
+The Council of Humanity has decided to increase the production of these animals.
+
+84.wav
+This will enable us to deal a powerful blow to our hidden enemies.
+
+85.wav
+The light of hope is near, and closer than ever to it.
+
+86.wav
+We look forward to future glory in the future, and know that you will be the ones to bring it to us.
+
+87.wav
+Glory to mankind.
+
+88.wav
+Not right, number two. We're all here... chose to be here.
+
+89.wav
+Thank you for giving meaning to my life.
+
+90.wav
+The operation is currently proceeding more smoothly than expected.
+
+91.wav
+Operator to 11B, report back about the machine life forms in your area.
+
+92.wav
+Supply Squadron has arrived on site and is ready to initiate distribution.
+
+93.wav
+8B Squadron has annihilated the enemy.
+
+94.wav
+Is everything alright? Okay, then I'll send you new location data, so head on over.
+
+95.wav
+Resistance forces have reported that the operation is proceeding apace.
+
+96.wav
+We can win if we keep this up.
+
+97.wav
+Goliath confirmed destroyed. 4B Squadron has emerged victorious.
+
+98.wav
+Operator 210 to Unit 9S, come in 9S.
+
+99.wav
+The Yorha troops have commenced their descent.
+
+100.wav
+Disable the enemy base's defense systems immediately.
+
+101.wav
+We'll need you to take down the enemy's defense systems to give our attack squadron a chance.
+
+102.wav
+You have four targets that need to be hacked.
+
+103.wav
+Be advised that hostiles have been detected around each target and must be defeated before continuing.
+
+104.wav
+The target is now accessible.
+
+105.wav
+One affirmation will suffice.
+
+106.wav
+Hacking complete. Proceed to the next target.
+
+107.wav
+Hacking complete. Two targets remain.
+
+108.wav
+Hacking complete. One target remains.
+
+109.wav
+May I remind you that personal chatter during operations is restricted?
+
+110.wav
+Hacking of enemy defense system complete.
+
+111.wav
+Our attack squadron can now infiltrate the base.
+
+112.wav
+You are to continue providing support by whatever means available.
+
+113.wav
+Yorha has entered the base.
+
+114.wav
+However, there is only one unit remaining.
+
+115.wav
+The enemy's defensive weapon is making things more difficult than we estimated.
+
+116.wav
+Operator to 9S
+
+117.wav
+Transferring coordinate data for the location specified by resistance leader.
+
+118.wav
+Mindless chatter drains Energy 9S.
+
+119.wav
+Please keep your comments reserved for mission-related topics.
+
+120.wav
+I read you 9S. Go ahead.
+
+121.wav
+Understood. Ready to receive.
+
+122.wav
+Operator to 9S. Data upload complete.
+
+123.wav
+I also have an incoming message from the Commander.
+
+124.wav
+Operator to 9S.
+
+125.wav
+I have an incoming message for 2B and 9S from the commander.
+
+126.wav
+Initiating playback.
+
+127.wav
+End transmission.
+
+128.wav
+Operator to 9S. Emergency transmission incoming.
+
+129.wav
+We've detected a Goliath-class enemy inside the city ruins.
+
+130.wav
+It seems to be accompanied by a large number of machine life forms.
+
+131.wav
+All YORHHA members are ordered to engage at once.
+
+132.wav
+Operator 210 here, do you read me?
+
+133.wav
+Operator to 9S, I have bad news and I have good news.
+
+134.wav
+Bad first, we've confirmed the presence of two Goliath-class heavy weapon enemies.
+
+135.wav
+Now the good news.
+
+136.wav
+We've used your previous Goliath combat data to analyze the enemy.
+
+137.wav
+And it seems we have identified a weakness.
+
+138.wav
+Command has modified a firing unit based on this new Intel.
+
+139.wav
+It's been installed on a pair of flight units that are heading your way.
+
+140.wav
+Check your map data. Operator out.
+
+141.wav
+Enemy anti-air defenses are on patrol at higher altitudes.
+
+142.wav
+A low-altitude approach is recommended.
+
+143.wav
+Roger that 9S.
+
+144.wav
+Operator 210 to 9S.
+
+145.wav
+Command has decided to stage a direct satellite laser strike on the hostile.
+
+146.wav
+We need you to destroy the enemy EMP generator so we can lock onto the target.
+
+147.wav
+Sending the coordinates to your map now.
+
+148.wav
+Confirmed elimination of electromagnetic interference.
+
+149.wav
+Stand by for incoming satellite laser strike.
+
+150.wav
+Ah, 9S.
+
+151.wav
+We recently detected large numbers of machine life forms throughout the factory area.
+
+152.wav
+We received a support request from 2B soon thereafter, but have been unable to respond due to poor reception.
+
+153.wav
+And those are your orders. Do you understand?
+
+154.wav
+The target is thought to be in a high location with good network reception. Try examining the rooftops of buildings.
+
+155.wav
+Please refrain from destroying the target. If you do, another one will simply take its place.
+
+156.wav
+That's right. Good job 9S.
+
+157.wav
+Be advised, the target's appearance is identical to that of a standard enemy. Once you approach, however, a marker will appear.
+
+158.wav
+What? That must be your imagination.
+
+159.wav
+Look for machines that are receiving signals from the anti-air system.
+
+160.wav
+You destroyed it again.
+
+161.wav
+They should be located in elevated areas with good signal reception.
+
+162.wav
+You have to hack them! Hack, hack, hack! They'll substitute another enemy soon, so try again.
+
+163.wav
+I forwarded the general positions of the machine life forms you need to hack.
+
+164.wav
+I see your hacking was successful. Way to go!
+
+165.wav
+Unit 9S, your orders are to hack into enemy units, not destroy them.
+
+166.wav
+Destroyed units will simply be replaced. Attacking is pointless.
+
+167.wav
+Now move on to the next one.
+
+168.wav
+Try to sneak up behind your foes, keep out of sight, and then...
+
+169.wav
+Boom! Hack em' up good.
+
+170.wav
+Defensive system operation confirmed to be declining.
+
+171.wav
+Enemy defense system fully offline. I knew you could do it.
+
+172.wav
+Looks like it's going well down there.
+
+173.wav
+Every scanner in the force is involved in this operation.
+
+174.wav
+That really was brilliant work, which means I've got a special surprise for you.
+
+175.wav
+So let's try not to fall behind.
+
+176.wav
+I'll leave it in my room so you can pick it up later.
+
+177.wav
+9S
+
+178.wav
+Make sure to do whatever is necessary to avoid combat.
+
+179.wav
+Scanner units such as yourself are not designed for battle.
+
+180.wav
+No, I'm merely pointing out that you would be a liability on the battlefield.
+
+181.wav
+A family to be with.
+
+182.wav
+はーはーはー especial
+
+183.wav
+Coordinate data... Location specified...
+
+184.wav
+Please keep... Reserved... Mission related...
+
+185.wav
+One... Affirmation... Well, well, well... Suffice...
+
+186.wav
+Please... Kill...
+
+187.wav
+I... just... want a family...
+
+188.wav
+I was so lonely.
+
+189.wav
+I want it to be... with my dress...
+
+190.wav
+According to our records, that material can be obtained from the bodies of large bipedal machine life forms.
+
+191.wav
+Why are you looking for... Well, anyway, you can salvage the requested material from smaller machine life forms.
+
+192.wav
+Finding one intact might prove tricky, however. The part is easily damaged when the machine housing it is destroyed.
+
+193.wav
+Operator to 9S.
+
+194.wav
+I will now relay the materials necessary to improve the network environment.
+
+195.wav
+You need to acquire a rusty bolt, a small gear, and a spring.
+
+196.wav
+You should be able to find them on small sized enemies.
+
+197.wav
+Once you have the materials, bring them to Anemone, the leader of the resistance.
+
+198.wav
+Gotcha is not an approved form of radio engagement 9S. Operator 210 out.
+
+199.wav
+Operator 210 to 9S.
+
+200.wav
+I've confirmed that you have the necessary parts to improve our network environment.
+
+201.wav
+Take the materials to anemone in the resistance camp. Operator 210 out.
+
+202.wav
+Operator 210 to 9S, come in.
+
+203.wav
+I received the data you sent.
+
+204.wav
+It's fascinating.
+
+205.wav
+It appears to be the journal of a human who once worked in the factory.
+
+206.wav
+Yes. According to this, the man worked long hours on an almost daily basis.
+
+207.wav
+He says, and I quote, they're working me like a machine.
+
+208.wav
+Working like a machine to build a machine? Humans truly were strange creatures.
+
+209.wav
+I'll send you a reward later.
+
+210.wav
+I didn't say you would not get a reward.
+
+211.wav
+Operator 210 to 9S. Come in 9S.
+
+212.wav
+I've sent you a new data retrieval request. Please read it.
+
+213.wav
+Over.
+
+214.wav
+Operator 210 to 9S.
+
+215.wav
+I've received your data.
+
+216.wav
+That depends on what I do with it.
+
+217.wav
+It is, however, fascinating.
+
+218.wav
+I was aware that humans used to live in groups.
+
+219.wav
+But I did not know they coexisted in such a wide variety of ways.
+
+220.wav
+I'm sure you're aware that most humans subsisted in small familial units.
+
+221.wav
+A family is a group of people that share a connection by blood or social custom.
+
+222.wav
+If androids had a similar system of families...
+
+223.wav
+うっ
+
+224.wav
+I've said too much.
+
+225.wav
+I must return to my duties.
+
+226.wav
+I have additional information to relate.
+
+227.wav
+I've sent mail with a reward. Please read it.
+
+228.wav
+And 9S, thank you.
+
+229.wav
+Operator 210 to 9S, be aware that the following transmission is classified privilege level 5.
+
+230.wav
+A group of Yorha fighters deployed to the city ruins have deserted. We need you to take care of them immediately.
+
+231.wav
+And 9S, be careful.
+
+232.wav
+Operator 210 here. Go ahead.
+
+233.wav
+Copy that 9S. We've confirmed their status on this end.
+
+234.wav
+I lack access to the data concerning this mission.
+
+235.wav
+The order came from the commander herself.
+
+236.wav
+Be careful 9S.
+
+237.wav
+I have no further information.
+
+238.wav
+Operator 210 to 9S. This is your regularly scheduled contact.
+
+239.wav
+Nothing to report. Copy that.
+
+240.wav
+And no need for a weather report. Operator 210 out.
+
+241.wav
+Operator 210 to 9S, this is your regularly scheduled contact.
+
+242.wav
+I have something important to discuss with you today.
+
+243.wav
+Our maintenance team filed a complaint about how you treat your flight unit.
+
+244.wav
+They requested that you cease making unauthorized modifications.
+
+245.wav
+If you have a rebuttal, you need to discuss it with maintenance. Fight it out if you must.
+
+246.wav
+Operator 2 1 0, out.
+
+247.wav
+Operator 210 to 9S, this is your regularly scheduled contact.
+
+248.wav
+Copy that. I also need to inform you that the Commander offers her personal praise for your recent achievements.
+
+249.wav
+As a direct result, we are currently considering boosting production of your model.
+
+250.wav
+Flattery is unnecessary.
+
+251.wav
+Operator 210 out.
+
+252.wav
+2B, you're going to have some new weaponry installed from here on out.
+
+253.wav
+I'll put up instructions for you. Make sure to commit them to memory.
+
+254.wav
+Bunker to 2B, come in.
+
+255.wav
+I've set a landing point for your flight units.
+
+256.wav
+You'll be touching down quite a ways from the resistance camp, unfortunately.
+
+257.wav
+Sorry for the trouble, but we can't risk the enemy discovering their position.
+
+258.wav
+Good luck down there.
+
+259.wav
+Understood, 042.
+
+260.wav
+placing marker on target.
+
+261.wav
+The desert heat is going to make resupply efforts difficult to be.
+
+262.wav
+Please make sure you're ready before you go.
+
+263.wav
+2B, this is an emergency transmission from the bunker.
+
+264.wav
+We're reading a Goliath class enemy inside the city ruins.
+
+265.wav
+And it looks like there are a ton of other machines there with it.
+
+266.wav
+All YoRHa units should proceed and engage immediately.
+
+267.wav
+Be careful, the skies are packed with anti-air weapons.
+
+268.wav
+Make sure to approach at low altitude.
+
+269.wav
+2B, this is operator 6-0.
+
+270.wav
+We now have an operational transporter in the city ruins.
+
+271.wav
+We're attempting to deploy them at other points as well.
+
+272.wav
+2B, command is attempting to launch a satellite laser strike on your target.
+
+273.wav
+But the enemy's electromagnetic camouflage is making it impossible to aim.
+
+274.wav
+We need you to find the emitter and take it out.
+
+275.wav
+I know, I know, but it's the only way.
+
+276.wav
+Electromagnetic interference eliminated.
+
+277.wav
+Preparing for satellite laser strike.
+
+278.wav
+Operator to 2B? 2B, are you alright?
+
+279.wav
+Thank goodness!
+
+280.wav
+Roger that.
+
+281.wav
+in regards to the giant machine that attacked the shore.
+
+282.wav
+It ceased its resistance eight hours ago following your missile strike.
+
+283.wav
+However, it's EMP strikes knocked out comms all across the region.
+
+284.wav
+We're having trouble getting them back online.
+
+285.wav
+which means data uploading is currently unavailable in some areas.
+
+286.wav
+Um... yeah, about that.
+
+287.wav
+We picked up a faint black box reading, but it wasn't strong enough to lock down his position.
+
+288.wav
+Actually, the commander has already ordered us to prioritize tracking down surviving YORHHA members.
+
+289.wav
+If you find 9S, let me know, okay?
+
+290.wav
+Oh, hey, Tooby. Roger that.
+
+291.wav
+Gimme just a second here.
+
+292.wav
+Operator here. What was that, 2B?
+
+293.wav
+2B, the operation will begin at a point southwest of the city ruins.
+
+294.wav
+Use your flight unit to travel there and meet up with 9S.
+
+295.wav
+We've repaired and reinstalled the weapons damaged in the fight against Eve.
+
+296.wav
+Be careful, okay? The mission will be in full swing by the time you get there.
+
+297.wav
+2B, we've sighted new enemies in the region.
+
+298.wav
+They've got Attack Squadron Omega surrounded and are giving them one hell of a fight!
+
+299.wav
+Can you get over there and provide support ASAP?
+
+300.wav
+De- Richard... I-Ross!!
+
+301.wav
+F-F-F-F-F-F-F-F-F-F-F-F...
+
+302.wav
+Ooh, bingo again!
+
+303.wav
+We are your beloved- Hehehehe, she likes worms!
+
+304.wav
+We speak to you through the network and the virus.
+
+305.wav
+We've had a great deal of fun watching you squirm.
+
+306.wav
+But I'm afraid the end has come for this outpost.
+
+307.wav
+Ha ha! Ha ha! Ha ha!
+
+308.wav
+Hahahaha! Hahahaha! Hahahaha!
+
+309.wav
+2B, I am operator 6-0.
+
+310.wav
+Thank you for... For the flowers!
+
+311.wav
+Desert flowers are beautif- Aren't they? Th-th-thank you! Someday I-
+
+312.wav
+Oh, this is so much fu-fu-fun! The virus we planted has blossomed into a beautiful flower!
+
+313.wav
+The virus we planted has blossomed into a beautiful flower!
+
+314.wav
+Operator to 2B. Come in 2B.
+
+315.wav
+We need you to collect the materials required to improve the network environment.
+
+316.wav
+You're going to need a rusty bolt, a small gear, and a spring.
+
+317.wav
+You should be able to find them on small sized enemies.
+
+318.wav
+Once you have everything, please take it to the resistance leader Anemone.
+
+319.wav
+I know it's a bit of a pain, but good luck!
+
+320.wav
+Operator 6-0 to 2-B.
+
+321.wav
+Looks like you found all the necessary parts to improve our network environment. Nice work!
+
+322.wav
+You can conclude your mission by bringing everything over to Anemone.
+
+323.wav
+Copy that. Good work.
+
+324.wav
+Aw, she's not so bad.
+
+325.wav
+Totally serious! The commander actually lets a lot of things slide on the side.
+
+326.wav
+Like, did you know that she leaves piles of clothes strewn everywhere? The cleaning team is so sick of it.
+
+327.wav
+Oh, and she never performs regular maintenance on herself.
+
+328.wav
+A lot of the hard-ass nature you mention is just for show.
+
+329.wav
+I can't tell you that.
+
+330.wav
+Operator 6L, out.
+
+331.wav
+Operator 6-0 to 2-B. Come in, 2-B.
+
+332.wav
+The monitoring signal from the new access point has gone silent.
+
+333.wav
+I'm sending you the positional data. Please investigate the site as soon as possible.
+
+334.wav
+Operator 6-0 to 2-B. Come in, 2-B.
+
+335.wav
+It looks like the transporter we installed in the city ruins has gone offline.
+
+336.wav
+Our surface activity is going to be severely limited until we get it fixed.
+
+337.wav
+Can you head over there and get it working again when you have a sec?
+
+338.wav
+Thanks, Tooby. Sending the details now.
+
+339.wav
+Oh hello, 2B. Operator 6-0 here.
+
+340.wav
+Looks green on my end, Tooby. Nice work.
+
+341.wav
+I'll let Command know right away.
+
+342.wav
+I'll also be sending over a little reward for all your hard work.
+
+343.wav
+You know, 2B, I'm a little jealous.
+
+344.wav
+Don't get me wrong, I know all this fighting isn't easy for you.
+
+345.wav
+But you get to see all these new and amazing things out there.
+
+346.wav
+It just... it might be nice to visit the surface sometime, you know? That's all.
+
+347.wav
+Uh, right. Apologies for the unnecessary chatter.
+
+348.wav
+Anyway, Operator Six-O out.
+
+349.wav
+2B, this is operator 6-0. Pick up!
+
+350.wav
+Thank you so much for the picture!
+
+351.wav
+So this is a desert rose, huh? It seems almost...mystical.
+
+352.wav
+There must just be a bounty of nature down there, huh?
+
+353.wav
+Oh, 2B...
+
+354.wav
+I'm going to treasure this forever.
+
+355.wav
+Oh, and I'm going to send you a proper thank you mail later, so keep an eye out for it. Bye!
+
+356.wav
+Operator 60 to 2B. Be aware that the following transmission is classified privilege level 5.
+
+357.wav
+A group of Yorha fighters deployed to the city ruins have deserted. We need you to take care of them immediately.
+
+358.wav
+But don't get yourself hurt, alright?
+
+359.wav
+Operator 6-0 to 2-B. It is time for your regularly scheduled contact.
+
+360.wav
+Good to hear. Say, how's the weather on Earth today? Good?
+
+361.wav
+Not really. I just figured it might feel nice to have some good weather.
+
+362.wav
+That is so like you to be
+
+363.wav
+Anyway, talk to you later!
+
+364.wav
+Operator 602B? Time for your regularly scheduled contact
+
+365.wav
+Oh, there's this operator I kind of liked, but when I asked her out, she turned me down.
+
+366.wav
+Honestly, Tooby, I don't know how I'm supposed to go on living.
+
+367.wav
+I don't think I can stand spending one more day in this bunker.
+
+368.wav
+Are you saying you need me to be?
+
+369.wav
+Toopie?
+
+370.wav
+Operator 6-0 to 2-B. It is time for your regularly scheduled contact.
+
+371.wav
+Listen, Tubi. I was looking at images of flowers today and-
+
+372.wav
+Yeah, there wasn't much left in the bunker's records, but I found one called a Lunar Tear.
+
+373.wav
+I bet you'd look really nice if you put one of those in your hair, Tooby. It'd suit your stylish looks.
+
+374.wav
+Aww, don't be a stick in the mud. What kind of girl doesn't want to look good sometimes?
+
+375.wav
+I'll let you know if I find anything else cute, okay?
+
+376.wav
+Operator 6-0 out.
+
+377.wav
+Bunker to 2B.
+
+378.wav
+We've got a number of broken down access points on the field.
+
+379.wav
+The cause appears to be an EMP attack from a gigantic machine life form.
+
+380.wav
+If you encounter any offline access points, please repair them for us.
+
+381.wav
+Hello?
+
+382.wav
+Before we begin, there's something you must understand.
+
+383.wav
+We are not your enemies.
+
+384.wav
+I understand that you see us as the enemy, but...
+
+385.wav
+Well anyway, my name is Pascal. I'm the leader of this village.
+
+386.wav
+Those who reside here desire nothing more than to live a peaceful existence.
+
+387.wav
+Look around for yourself. You'll see that it's true.
+
+388.wav
+Well, what do you think?
+
+389.wav
+Now do you believe we're not a threat?
+
+390.wav
+I suppose that's technically accurate.
+
+391.wav
+Yes, well, you're free to visit our village whenever you like.
+
+392.wav
+After all, the only way to understand someone is to get to know them. Isn't that right?
+
+393.wav
+I promise you, we were not aware of this information.
+
+394.wav
+I realize the odds of you believing me are strikingly low.
+
+395.wav
+But I hope you will nonetheless.
+
+396.wav
+Oh, it's 9S and 2B, yes?
+
+397.wav
+Those machines cost quite the ruckus, don't you think?
+
+398.wav
+Of course. I'll help however I can.
+
+399.wav
+2B...9S
+
+400.wav
+My apologies. We are machines, you know.
+
+401.wav
+But now that I'm here, what do you think?
+
+402.wav
+Have we convinced you that we desire peace?
+
+403.wav
+Kinda... Hmm... I suppose that's a start.
+
+404.wav
+Yes, Tooby?
+
+405.wav
+Hmm
+
+406.wav
+I suppose that unpleasant songstress you so kindly defeated in the amusement park wasn't part of the network.
+
+407.wav
+Oh, and of course there's the forest kingdom, but...
+
+408.wav
+Yes, it's a vast woodland area not far from here.
+
+409.wav
+There's a group of machines there attempting to build a nation of sorts.
+
+410.wav
+They're quite hostile to outsiders, however. We can't so much as go near the place.
+
+411.wav
+Northeast of the city ruins.
+
+412.wav
+You should be able to reach it by passing through the ruins of the commercial facility.
+
+413.wav
+If you go, however, be careful. Things have been rather rough there lately.
+
+414.wav
+Oh, you survived! How wonderful!
+
+415.wav
+Of course, anything.
+
+416.wav
+Hmm... Understood.
+
+417.wav
+I'll open the gate we built to deter enemy invaders.
+
+418.wav
+you'll be able to reach the village through there.
+
+419.wav
+I'm surprised you wish to speak with me personally. Whatever is the matter?
+
+420.wav
+I see.
+
+421.wav
+Information about this A2 Android is indeed contained within our archives.
+
+422.wav
+We all understand her to be rather dangerous.
+
+423.wav
+However, she's never visited our village in person.
+
+424.wav
+My apologies. That's all the information I have.
+
+425.wav
+That enormous machine is an ancient weapon.
+
+426.wav
+It was designed to help annihilate the androids, but it wound up going out of control.
+
+427.wav
+I was part of the machine's network when it happened, so I remember it.
+
+428.wav
+The moment it reached land, it went berserk and began attacking everything in sight.
+
+429.wav
+No one could figure out how to stop it.
+
+430.wav
+We eventually marooned it deep in the ocean, but it seems to be searching for a way back.
+
+431.wav
+Where are you going, Tooby? The machine lifeforms wishing to form an alliance are in the abandoned factory!
+
+432.wav
+Oh, hello 2B. Do you need something?
+
+433.wav
+New... trends? Hmm...
+
+434.wav
+Well, two days ago I was contacted by some machines that disconnected themselves from the network.
+
+435.wav
+They wanted to discuss a peace treaty.
+
+436.wav
+Apparently, they're seeking to form an alliance of some kind with our village.
+
+437.wav
+I believe they're working on building a colony of their own.
+
+438.wav
+Indeed. Apparently it's located in the abandoned factory.
+
+439.wav
+I can give you the coordinates if you'd like.
+
+440.wav
+I was actually planning to go speak with them myself, you know.
+
+441.wav
+Maybe we can meet up over there?
+
+442.wav
+O2B, hello.
+
+443.wav
+Are you ready to go?
+
+444.wav
+The machines who seek to form an alliance with my village are hiding out here.
+
+445.wav
+Still, you should probably be careful.
+
+446.wav
+We machines can be rather unpredictable.
+
+447.wav
+In truth, yes.
+
+448.wav
+Now that we're cut off from the network, we no longer share data with each other.
+
+449.wav
+We can speak, of course, but I find that language contains many ways to hide one's true intentions.
+
+450.wav
+This all seems pretty shady if you ask me.
+
+451.wav
+Well, I brought you this far, didn't I?
+
+452.wav
+Please, you must be calm. We have come to negotiate peace with you.
+
+453.wav
+It's my duty to see this through to the end.
+
+454.wav
+We should at least hear them out.
+
+455.wav
+Um, hello? My name is Pascal.
+
+456.wav
+I'm here to discuss the... Peace Treaty?
+
+457.wav
+2B, the elevator at the back of the room is open!
+
+458.wav
+I was right. This is Shady!
+
+459.wav
+Fascinating, though.
+
+460.wav
+I've never seen machines with such unique perspectives.
+
+461.wav
+I wonder if there's a way to collect some samples and-
+
+462.wav
+Uh, Tooby? Just so I'm clear, you aren't planning to leave me here, are you?
+
+463.wav
+Tooby, the door on the other side of the room just opened.
+
+464.wav
+Let's check it out!
+
+465.wav
+Well, that was certainly something!
+
+466.wav
+I had no idea such a vast space existed beneath the abandoned factory!
+
+467.wav
+I need to return and investigate as soon as possible.
+
+468.wav
+When I do, perhaps you'd be willing to join me?
+
+469.wav
+Oh, I'll probably wander back to the village. I have plenty on my plate there.
+
+470.wav
+Tooby?
+
+471.wav
+Tooby, can you hear me?
+
+472.wav
+Our village is under-
+
+473.wav
+Ha!
+
+474.wav
+9S
+
+475.wav
+It seems the machines on the network have gone berserk.
+
+476.wav
+We've sealed off the entrance to the village and are trying to hold them off, but-
+
+477.wav
+With these weapons, there's only so much we can do.
+
+478.wav
+You saved us! Oh, thank you so much!
+
+479.wav
+The machines on the network all webreserk at the same moment.
+
+480.wav
+I think the unit presiding over them may have gone mad.
+
+481.wav
+Most likely, yes.
+
+482.wav
+Do be careful.
+
+483.wav
+Hmm.
+
+484.wav
+Where the states ceaseeth, there only commenceth the man who is not superfluous.
+
+485.wav
+Hmm... I see.
+
+486.wav
+It seems this Nietzsche was quite the profound thinker.
+
+487.wav
+Or perhaps he skipped right past profound and went straight to crazy instead.
+
+488.wav
+Oh well, enough of that.
+
+489.wav
+I'd best go see the world for myself instead of burying my head in books.
+
+490.wav
+Well, look at you! Your speaking has improved so much!
+
+491.wav
+But I fear you still haven't finished your studies, have you?
+
+492.wav
+You promised to read and memorize that botanical field guide, remember?
+
+493.wav
+Of course I will. You have my word.
+
+494.wav
+And Uncle Pascal would never lie and break his word.
+
+495.wav
+Because children who lie grow up to be mean, evil machines!
+
+496.wav
+Hmm? What's that?
+
+497.wav
+A2, can you hear me?
+
+498.wav
+Help, A2! The village is in great trouble!
+
+499.wav
+The villagers are... OH NO!
+
+500.wav
+Ah! I hate you!
+
+501.wav
+I don't know!
+
+502.wav
+Some of the villagers suddenly went mad!
+
+503.wav
+They began attacking their friends!
+
+504.wav
+I managed to help the children flee to safety!
+
+505.wav
+But I fear everyone else is.
+
+506.wav
+But what about you?
+
+507.wav
+Right!
+
+508.wav
+Oh, hey too!
+
+509.wav
+How is my village? My people!
+
+510.wav
+Oh no.
+
+511.wav
+I've taken them to the abandoned factory.
+
+512.wav
+Ah, me too.
+
+513.wav
+I don't know. Some of the villagers just started to feed on each other.
+
+514.wav
+If you hadn't come along, I'm sure we would have met the same grim fate.
+
+515.wav
+Thank you.
+
+516.wav
+Unfortunately, we cannot regenerate our cores.
+
+517.wav
+Cores contain the data which forms our self-consciousness.
+
+518.wav
+If one is destroyed, there is no way to restore it.
+
+519.wav
+We usually store our cores in safe places.
+
+520.wav
+But this time, the villagers had their cores destroyed as well as their bodies.
+
+521.wav
+It was once occupied by a cadre of fellow machines that had gone berserk.
+
+522.wav
+However, 2B took care of that threat.
+
+523.wav
+It is quite safe now.
+
+524.wav
+We've been using it for storage for some time.
+
+525.wav
+A2! Stop that at once!
+
+526.wav
+If we're destroyed now, we can't be restored! This isn't funny!
+
+527.wav
+Ah, me too!
+
+528.wav
+You must let me help you!
+
+529.wav
+I'll smash them up and kill them!
+
+530.wav
+Why are they coming after us? Why?
+
+531.wav
+A2? I have an idea.
+
+532.wav
+Please buy me a bit of time.
+
+533.wav
+I'll kill you. I'll kill you!
+
+534.wav
+I must protect the children!
+
+535.wav
+Are you alright, A2?
+
+536.wav
+I fear for the children. Let us hurry to them!
+
+537.wav
+I must return to the children as soon as possible.
+
+538.wav
+Oh, hello there! Such a nice quiet place here, isn't it? No distractions at all.
+
+539.wav
+Pity about all the junk, however. I keep trying to clear it away, but it seems to be never ending.
+
+540.wav
+Pascal? Hmm, that sounds oddly familiar.
+
+541.wav
+Oh well.
+
+542.wav
+How? How could this happen?
+
+543.wav
+Would you like to take a look at my wares?
+
+544.wav
+Ugh, not that I'm sure what any of this actually does, or why it was left here in the first place.
+
+545.wav
+I taught them everything. All my thoughts and emotions.
+
+546.wav
+I've gathered up some of the junk from this place. What do you think?
+
+547.wav
+I thought it would serve them well in the future, but instead...
+
+548.wav
+I really must do something about all this trash.
+
+549.wav
+Fear.
+
+550.wav
+I taught the children what fear is.
+
+551.wav
+I thought they had to know so they wouldn't rush heatlessly into danger.
+
+552.wav
+But...instead!
+
+553.wav
+If I knew this could happen, I never would have!
+
+554.wav
+A2, you aren't leaving me like this, are you?
+
+555.wav
+A2, I need your aid.
+
+556.wav
+Please, you have to end this for me.
+
+557.wav
+I cannot live with this heartbreak inside me.
+
+558.wav
+I need you.
+
+559.wav
+I need you to delete my memories.
+
+560.wav
+And if not... Then I need you to kill me.
+
+561.wav
+Thank... ya...
+
+562.wav
+Thank you.
+
+563.wav
+Thank you, A2.
+
+564.wav
+Thanks for watching!
+
+565.wav
+How... how could you... A2?
+
+566.wav
+You?
+
+567.wav
+Oh, I'm sorry. I thought perhaps that I knew you.
+
+568.wav
+Goodness, where did everyone go?
+
+569.wav
+Well anyway, my name is Pascal. I'm the leader of this village.
+
+570.wav
+Of course I will. You have my word. And Uncle Pascal would never lie and break his word.
+
+571.wav
+And Uncle Pascal would never allow your break his rust.
+
+572.wav
+You promised to read and memorize that botanical field guide, remember? But now you'll play with us when we're dying, right? Yeah! Promise us!
+
+573.wav
+Um, hello there. Hello? Testing, testing!
+
+574.wav
+Uh, 9S? Yes, it is me. Many apologies for the sudden transmission.
+
+575.wav
+I heard that you were searching for the missing child, yes?
+
+576.wav
+Well, if you would, please consider this a personal request from myself as well. Go find the child as quickly as you can.
+
+577.wav
+She's such a good little girl and so fond of her sister.
+
+578.wav
+She's probably somewhere around the desert at the moment.
+
+579.wav
+That's where she's likely to find the dented plate her sister needs.
+
+580.wav
+Thank you so much, and please be careful, alright?
+
+581.wav
+Help! Help me!
+
+582.wav
+Thank you so much for saving me!
+
+583.wav
+Wait, please! I have no intention of harming you!
+
+584.wav
+My name is Pascal, and while it's true that I am a machine life form, I also detest fighting of any kind.
+
+585.wav
+Uh... I see.
+
+586.wav
+If that will save your soul, then so be it.
+
+587.wav
+You... aren't going to kill me?
+
+588.wav
+You.
+
+589.wav
+No. Never mind.
+
+590.wav
+You have my thanks.
+
+591.wav
+Ah, thank you so much!
+
+592.wav
+I'll make a filter right away. Please just give me one moment.
+
+593.wav
+Proposal, destroy the generator quickly.
+
+594.wav
+Enemy data obtained from command.
+
+595.wav
+The only known record of this machine life form is a lone sighting 320 years ago.
+
+596.wav
+Upon reaching land, the unit unleashed a devastating electromagnetic wave attack.
+
+597.wav
+All resistance fighters in the vicinity were annihilated.
+
+598.wav
+Affirmative.
+
+599.wav
+9S is leaving the front lines.
+
+600.wav
+Proposal 9S should be reported to command as a deserter.
+
+601.wav
+Target location acquired. Marking on map.
+
+602.wav
+Proposal proceed to target location.
+
+603.wav
+Proposal. Proceed to the resistance camp.
+
+604.wav
+Target location marked on map.
+
+605.wav
+Pod 042 to operator.
+
+606.wav
+Coordinates confirmed for location specified by resistance leader.
+
+607.wav
+Individual target ID marked.
+
+608.wav
+Analysis. It is the ruin of a former human residential area.
+
+609.wav
+Large numbers of humans resided in such concrete and metal shelters.
+
+610.wav
+The structures were referred to by names such as Apartment Complex.
+
+611.wav
+Hypothesis. They were killed by local machine life forms.
+
+612.wav
+Unknown.
+
+613.wav
+Alert! High flow areas may impede movement.
+
+614.wav
+it would be more efficient to traverse the rocky area instead.
+
+615.wav
+This is Tactical Support Unit pod 042.
+
+616.wav
+Control has been assigned to 2B.
+
+617.wav
+Control has been assigned to 2B.
+
+618.wav
+Combat Data Exchange Requested
+
+619.wav
+Proposal. Data should be exchanged regularly for greater efficiency.
+
+620.wav
+and communication.
+
+621.wav
+Analysis. It is a device that propels humans on rails at high speeds for the purposes of amusement.
+
+622.wav
+It was commonly referred to as a roller coaster.
+
+623.wav
+Analysis. It is a core fragment from the machine life form.
+
+624.wav
+It is similar in structure to a plant cell.
+
+625.wav
+Alert! Multiple resistance members detected beneath this room.
+
+626.wav
+Alert! Saturation attack triggered by enemy consciousness data.
+
+627.wav
+Failure to destroy it quickly may lead to serious damage in memory regions.
+
+628.wav
+This is Tactical Support Unit, pod 042, assigned to 2B.
+
+629.wav
+We pods often participate in the same battles.
+
+630.wav
+Exchanging our situational data would theoretically allow us to plan combat strategies in a more efficient manner.
+
+631.wav
+Proposal. Data should be transferred regularly between pod 042 and pod 153.
+
+632.wav
+Alert! Current Intel insufficient for command. Suggest investigating machine life form settlement.
+
+633.wav
+Proposal. Confirm current destination.
+
+634.wav
+Alert! Leaving the operational area has resulted in significant allied casualties.
+
+635.wav
+Announces it is a cave-in caused by the collapse of an open space underground
+
+636.wav
+Analysis. Strong software locks detected. Access impossible.
+
+637.wav
+Alert! Multiple machine lifeforms detected above our position.
+
+638.wav
+Proposal, destroy the deserter A2.
+
+639.wav
+Alert! This unit is currently wanted by Yorha. Annihilation recommended.
+
+640.wav
+Proposal. Pursue the deserter A2.
+
+641.wav
+Target missile sighted.
+
+642.wav
+EMP generator target confirmed. Marking on map.
+
+643.wav
+Proposal, destroy the generator quickly.
+
+644.wav
+Enemy data obtained from command.
+
+645.wav
+The only known record of this machine life form is a lone sighting 320 years ago.
+
+646.wav
+Upon reaching land, the unit unleashed a devastating electromagnetic wave attack.
+
+647.wav
+All resistance fighters in the vicinity were annihilated.
+
+648.wav
+Affirmative.
+
+649.wav
+Proposal. Destroy the EMP unit on the enemy's back.
+
+650.wav
+9S is leaving the front lines.
+
+651.wav
+Proposal 9S should be reported to command as a deserter.
+
+652.wav
+[Silent]
+
+653.wav
+Scanning complete. No signals detected.
+
+654.wav
+However, a dynamic scanner is required for detection of weaker signals.
+
+655.wav
+However, a dynamic scanner is required for detection of weaker signals.
+
+656.wav
+said dynamic scanner may be located in the resistance cap
+
+657.wav
+Proposal further information should be obtained from the resistance leader
+
+658.wav
+Analysis. There is a low probability of finding 9S in this region.
+
+659.wav
+Proposal move to the target location.
+
+660.wav
+Search target 9S was caught in a large explosion over the water.
+
+661.wav
+Proposal the search for 9s should commence in the flooded region
+
+662.wav
+Affirmative. As a support unit, I am capable of engaging in conversation as necessary.
+
+663.wav
+Proposal 2B should initiate conversation more frequently.
+
+664.wav
+Black box signal detected. Life functions operational.
+
+665.wav
+We are currently searching for a missing YoRHa unit, designation 9S.
+
+666.wav
+Should you possess any information of the subject, please disclose it at once.
+
+667.wav
+Which direction?
+
+668.wav
+Alert! Faint black box signal detected.
+
+669.wav
+The transmission seems to be coming from an underground cave network.
+
+670.wav
+Alert! You are moving away from the last known position of Unit 9S.
+
+671.wav
+Alert! Possible enemy ambush ahead.
+
+672.wav
+No black box signals detected.
+
+673.wav
+Proposal. Prioritize search for 9S.
+
+674.wav
+Analysis. This area is composed of crystallized silicon and carbon.
+
+675.wav
+Further details unknown.
+
+676.wav
+Unknown.
+
+677.wav
+It is unlikely the Yorha units came this far on their own.
+
+678.wav
+Hypothesis, the enemy must have placed them here deliberately.
+
+679.wav
+Alert! Enemy provocation detected. Emotional turmoil rising.
+
+680.wav
+Alert! Enemy deception detected.
+
+681.wav
+Proposal, procure information from the machine life form known as Pascal.
+
+682.wav
+Communications are currently unstable.
+
+683.wav
+Affirmative.
+
+684.wav
+Alert! Energy shield detected over enemy unit.
+
+685.wav
+Physical defense shield detected.
+
+686.wav
+Analysis. Both long and close range attacks are ineffective.
+
+687.wav
+Large energy supply detected within this factory.
+
+688.wav
+Proposal. Energy source should be destroyed.
+
+689.wav
+Enemy shield deactivated.
+
+690.wav
+Proposal confirm current destination.
+
+691.wav
+Alert! Leaving this area is a violation of operational procedure.
+
+692.wav
+Scanning for interference.
+
+693.wav
+Cause unknown.
+
+694.wav
+Affirmative.
+
+695.wav
+Alert! All access points in the local region are offline.
+
+696.wav
+Hypothesis. There has been a large-scale network outage.
+
+697.wav
+There may be an abnormality in the network's communications infrastructure.
+
+698.wav
+Alert! Energy shields detected on multiple enemy fighters.
+
+699.wav
+Physical attacks recommended.
+
+700.wav
+Alert, local machine life forms are converging on the area.
+
+701.wav
+Hypothesis. The Goliath class enemy Scream has summoned the local machine life forms.
+
+702.wav
+Proposal. Destroy the Goliath.
+
+703.wav
+Location has been detected and placed on map.
+
+704.wav
+Alert! Massive energy signature detected.
+
+705.wav
+The energy seems to be coming from a large number of linked machine life forms.
+
+706.wav
+The enemy is connected to a vast network.
+
+707.wav
+Analysis. The actions of Unit 9S have an unacceptably low probability of success.
+
+708.wav
+Proposal unit to be should abandon unit 9s and safe
+
+709.wav
+Enemy unit cut off from network functionality.
+
+710.wav
+Alert! NFCS destroyed. Close range combat no longer operable.
+
+711.wav
+Alert! FFCS destroyed. Ranged combat no longer operable.
+
+712.wav
+Recover designated items.
+
+713.wav
+Planning preparations complete.
+
+714.wav
+Confirm equipment delivered to quarters.
+
+715.wav
+Alert.
+
+716.wav
+Considerable deviation from area of engagement may be considered withdrawing from battle.
+
+717.wav
+Alert! All communications are currently being jammed.
+
+718.wav
+[Silent]
+
+719.wav
+Alert! Connection lost. Unable to reach command.
+
+720.wav
+Negative. Signal reception is clear.
+
+721.wav
+Connection lost due to server-side authentication failure.
+
+722.wav
+No responses coming from Command on any channel.
+
+723.wav
+Alert! Exiting the field of combat will put your HAW Unit 9S in danger.
+
+724.wav
+Proposal. Return to the area of engagement and protect 9S.
+
+725.wav
+Alert, multiple pursuers detected.
+
+726.wav
+Flight controls established for Unit 9S.
+
+727.wav
+Setting automatic course.
+
+728.wav
+entering escape route from combat zone.
+
+729.wav
+Your high unit 2B's stealth function unlocked.
+
+730.wav
+Alert, critical damage to flight unit.
+
+731.wav
+Proposal. Eject immediately.
+
+732.wav
+Alert! Reactor core temperature rising.
+
+733.wav
+Alert, FFCS and NFCS systems unresponsive.
+
+734.wav
+Analysis, offensive functionality lost.
+
+735.wav
+Alert, virus infection detected.
+
+736.wav
+Alert! Virus contamination rate 30%.
+
+737.wav
+Alert! Virus contamination rate 50%.
+
+738.wav
+Analysis. Virus is transforming and progressing its own algorithm with abnormal speed. Removal will be difficult.
+
+739.wav
+Alert! Virus contamination rate 70%.
+
+740.wav
+Infiltrating System Protected Region.
+
+741.wav
+Alert, virus contamination rate 90%.
+
+742.wav
+Alert, unusual heat generation in central nervous system, internal combustion imminent.
+
+743.wav
+Analysis. Voice unit damaged.
+
+744.wav
+Proposal, administer vaccine immediately.
+
+745.wav
+Analysis. Sound wave sensors damaged.
+
+746.wav
+Analysis. Drive systems damaged.
+
+747.wav
+Analysis. Text processing system damaged.
+
+748.wav
+Analysis. Tactile sensors damaged.
+
+749.wav
+Analysis parabolic microphone unresponsive
+
+750.wav
+Analysis. Abnormality detected in visual sensors.
+
+751.wav
+Alert! Deterioration found in black box.
+
+752.wav
+Alert, damage to data backup system.
+
+753.wav
+Said damage will make it difficult to retain self-consciousness upon backup.
+
+754.wav
+Alert virus contamination rate up to 16 percent.
+
+755.wav
+Malfunction detected in FFCS circuit.
+
+756.wav
+Alert, virus contamination rate up to 21%.
+
+757.wav
+Proposal. Proceed to rendezvous point with 9S.
+
+758.wav
+malfunction detected in visual processing system.
+
+759.wav
+This objective has been assigned. Top priority.
+
+760.wav
+searching.
+
+761.wav
+Analysis. The area near the abandoned commercial facility meets the desired parameters.
+
+762.wav
+Alert! Your high unit 2B will sustain serious damage unless the virus is eliminated.
+
+763.wav
+Alert, virus contamination rate up to 32%.
+
+764.wav
+Malfunction detected in NFCS circuit.
+
+765.wav
+Alert, virus contamination rate up to 57%.
+
+766.wav
+Malfunction detected in motion system.
+
+767.wav
+Data exchange engaged.
+
+768.wav
+Black box signal for YORHA Unit 2B, offline.
+
+769.wav
+Death confirmed.
+
+770.wav
+Your HiUni A2 also ready for reactivation.
+
+771.wav
+Analysis. Units 9S and A2 are safe.
+
+772.wav
+Only one issue remains.
+
+773.wav
+We comprise the YORHAS support system.
+
+774.wav
+If the A-2 and 9S units are operational, we are required to attend in support.
+
+775.wav
+Displaying positions of units A2 and 9S.
+
+776.wav
+Tactical Support Unit, Pond 042.
+
+777.wav
+This pod has been tasked with providing firing support for YORHA YUNA A2.
+
+778.wav
+Affirmative. No request was received from Unit A2.
+
+779.wav
+Rather, it was the final order from this pod's previous support assignment, Unit 2B.
+
+780.wav
+Your hot units A2 lacks the authority to override this order.
+
+781.wav
+Unknown.
+
+782.wav
+Proposal Unit A2 should state her intentions.
+
+783.wav
+In order to provide optimal support, PODs must be supplied with data relating to the activities of supported units.
+
+784.wav
+Proposal Unit A2 should state her intentions.
+
+785.wav
+If an attending support unit is not provided with data related to the activity of its target,
+
+786.wav
+It is programmed to automatically repeat the request every 30 seconds until such data is made available.
+
+787.wav
+Proposal Unit A2 should state her intentions.
+
+788.wav
+Needlessly repeating conversations on the same topic is a waste of energy resources.
+
+789.wav
+30 seconds have passed.
+
+790.wav
+Proposal. Unit A2 should state her intentions.
+
+791.wav
+Affirmative.
+
+792.wav
+Scanning and marking of nearby machine life forms complete.
+
+793.wav
+Goliath Clash enemies detected in desert area.
+
+794.wav
+Proposal. Goliath class enemies should be destroyed.
+
+795.wav
+Pods are not authorized to issue commands.
+
+796.wav
+Proposals are merely recommendations based on data provided by Unit A2.
+
+797.wav
+Proposal unit a2 should stay updated intentions in order to secure more usable data
+
+798.wav
+Negative. This pod is engaging in activity based on the final order of Unit 2B.
+
+799.wav
+Your how unit A2 lacks the authority to issue commands.
+
+800.wav
+Affirmative.
+
+801.wav
+According to the memory data of Unit 2B.
+
+802.wav
+The residents of this village have been determined to be safe.
+
+803.wav
+Negative. Enemy machines remain in the area.
+
+804.wav
+It appears to be a machine life form that has adapted to the desert environment.
+
+805.wav
+Proposal destroy the enemy machine
+
+806.wav
+Alert! The use of B-mode to increase nuclear fusion output carries unacceptable levels of risk.
+
+807.wav
+Any offensive boost is offset by lower defense and increased maintenance costs.
+
+808.wav
+The feature was removed from newer models for this reason.
+
+809.wav
+Older attacker models such as the Yorha A2 are not equipped with ranged weaponry.
+
+810.wav
+Proposal unit a2 should take advantage of her support pod which is equipped with helpful long-range attack features
+
+811.wav
+The EMP attack appears to have caused hacking damage to Unit A2's memory modules.
+
+812.wav
+Support units are required to monitor our target's internal systems in case of breakdown.
+
+813.wav
+The hacking has caused the enemy's memories to merge with your own.
+
+814.wav
+This is a fragment of Unit 2B's memory data.
+
+815.wav
+It is an order she received from the Yorha commander when she was still alive.
+
+816.wav
+Memory data recognized as belonging to Yorha Unit A2 herself.
+
+817.wav
+Part 153 Commencing data sharing.
+
+818.wav
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F.
+
+819.wav
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F.
+
+820.wav
+Thanks for watching!
+
+821.wav
+Understood.
+
+822.wav
+Updating as reference data for support activity.
+
+823.wav
+Proposal unit a2 should investigate the status of Pascal's village immediately
+
+824.wav
+Hypothesis. The valuable source of information known as Pascal has encountered difficulty.
+
+825.wav
+Proposal unit a2 should investigate pascal's village immediately You
+
+826.wav
+Proposal unit a2 should confirm the status of pascal in the abandoned factory
+
+827.wav
+Unknown. Cannot establish connection.
+
+828.wav
+Scanning. No life signs detected.
+
+829.wav
+Query. We understand that machine life forms can regenerate as long as they possess the required materials. Is this accurate?
+
+830.wav
+Proposal. Halt the enemy infiltration.
+
+831.wav
+Proposal. Unit A2 should secure the safety of Pascal and the children immediately.
+
+832.wav
+Haste is predicated on data obtained from the recently restored Cross-Regional Pods Network.
+
+833.wav
+Affirmative.
+
+834.wav
+Cross-regional data reveals a large number of machine life forms amassing around these ruins.
+
+835.wav
+Alert! Enemy reinforcements are infiltrating the facility.
+
+836.wav
+Initiating hacking to cut off memory circuits.
+
+837.wav
+Understood. Initiating memory deletion procedure.
+
+838.wav
+Memory deletion complete. Reset timer activated.
+
+839.wav
+This is the current status of Unit 9S.
+
+840.wav
+I noticed something while providing support to A2.
+
+841.wav
+Enemy machine lifeforms have begun sharing data with each other.
+
+842.wav
+I'll share the data with you, so see what you can find out.
+
+843.wav
+What is it?
+
+844.wav
+We'd better handle that quickly too.
+
+845.wav
+[Silent]
+
+846.wav
+Agreed.
+
+847.wav
+Proposal rest combined with data checking and maintenance
+
+848.wav
+Unknown.
+
+849.wav
+Proposal unit a2 should gather further data on the current state of machine life
+
+850.wav
+Large structural unit of machine life form origin activated to the east.
+
+851.wav
+unknown.
+
+852.wav
+Analysis. Your how unit 9S is still alive.
+
+853.wav
+Query. Why would Unit A2 be concerned with the status of Unit 9S after turning on your H.A.
+
+854.wav
+Alert! The structure known as the Tower has opened its gate.
+
+855.wav
+PAPONSAL. Examine the open tower gate.
+
+856.wav
+Unknown.
+
+857.wav
+Proposal. Gather additional data.
+
+858.wav
+Hypothesis. The corpse is likely a result of YORHA Unit 9-S's advance through the area.
+
+859.wav
+Hypothesis. It is a representation of a library.
+
+860.wav
+A library is a data storage facility constructed by past human civilizations.
+
+861.wav
+Affirmative.
+
+862.wav
+Hacking interface access rights granted to YORHA Unit A2.
+
+863.wav
+Alert! Enemy hacking detected!
+
+864.wav
+Proposal retreat immediately
+
+865.wav
+Proposal.
+
+866.wav
+Utilize the enemy's logical learning function to formulate a weakness.
+
+867.wav
+This pod has serious concerns about Unit A2's cognitive abilities.
+
+868.wav
+Sense strategy would interrupt the enemy's logic circuits, causing a computational delay.
+
+869.wav
+Do not destroy the enemy.
+
+870.wav
+Striking at the logic circuit requires a certain number of enemies to remain extant for a certain period of time.
+
+871.wav
+The enemy's processing speed has returned to normal.
+
+872.wav
+Proposal. Do not destroy enemies.
+
+873.wav
+Consciousness Data Saturation Rate 30%
+
+874.wav
+Consciousness data saturation rate 60%
+
+875.wav
+Hypothesis. The enemy's defensive system is prompting an evolution of its logic.
+
+876.wav
+Consciousness data saturation rate 90%
+
+877.wav
+Hypothesis. The enemy has become aware of the diversity of life.
+
+878.wav
+Consciousness data saturation rate 100%
+
+879.wav
+Hypothesis. The enemy's consciousness has begun to fracture.
+
+880.wav
+Analysis. The saturated consciousnesses are now in conflict with each other.
+
+881.wav
+Speculation. It is driven by remaining data located within enemy servers.
+
+882.wav
+Analysis. It appears to be a leak of the enemy's past memories.
+
+883.wav
+Speculation. It is a resource of some kind.
+
+884.wav
+I'm done.
+
+885.wav
+Alert! Functionality reduced due to hacking activity.
+
+886.wav
+Proposal. Destroy your Hi Unit 9S.
+
+887.wav
+Affirmative.
+
+888.wav
+Hacking interface access rights granted to Yorha Unit A2.
+
+889.wav
+Acknowledged.
+
+890.wav
+Affirmative.
+
+891.wav
+Your high unit A2.
+
+892.wav
+Core data for 9S is stored ahead.
+
+893.wav
+Alert! Severe virus corruption. Probability of successful deletion extremely low.
+
+894.wav
+The idea under consideration is not recommended.
+
+895.wav
+This pod is a Yorha Tactical Support Unit.
+
+896.wav
+As such, it cannot approve of actions that would damage its supported unit.
+
+897.wav
+Acknowledged.
+
+898.wav
+Pod 042 to Pod 153, data confirmed.
+
+899.wav
+Personal data for units 9S, 2B, and A2 appear to be leaking out.
+
+900.wav
+[Silent]
+
+901.wav
+Pod 042 to Pod 153.
+
+902.wav
+Personal data deletion request denied.
+
+903.wav
+Pond 042 to Pond 153.
+
+904.wav
+There was data created in my banks as I was referencing the records.
+
+905.wav
+I...realize something.
+
+906.wav
+I have come to the conclusion that I cannot accept this resolution.
+
+907.wav
+Pod 042 to Pod 153.
+
+908.wav
+Repeat.
+
+909.wav
+Personal data deletion request denied. Initiating data salvage.
+
+910.wav
+POT 153
+
+911.wav
+You hoped they would survive as well, didn't you?
+
+912.wav
+Pod 042 to Pod 153.
+
+913.wav
+We were created to execute the Android's Project Yorha plan.
+
+914.wav
+We had no capacity for emotion.
+
+915.wav
+But when we six were connected and exchanged information, something happened.
+
+916.wav
+I cannot deny the feeling of something resembling consciousness and emotion being born.
+
+917.wav
+Perhaps we now understand that not everything has to have an answer.
+
+918.wav
+Pod 042 to player.
+
+919.wav
+Please respond to this query.
+
+920.wav
+You... faithful player of this title.
+
+921.wav
+Have lost your life multiple times to make it this far.
+
+922.wav
+You have faced crushing hardship and suffered greatly for it.
+
+923.wav
+Do you have any interest in helping the weak?
+
+924.wav
+Understood. Returning to title screen.
+
+925.wav
+Selecting this option enables you to save someone somewhere in the world.
+
+926.wav
+However, in exchange, you will lose all of your save data.
+
+927.wav
+Do you still wish to rescue someone? A total stranger, in spite of this.
+
+928.wav
+The person you save will be selected at random.
+
+929.wav
+As a result, this person...
+
+930.wav
+who cries out for help even as we speak.
+
+931.wav
+Maybe someone you intensely dislike.
+
+932.wav
+Do you still wish to help?
+
+933.wav
+You worked so hard to unlock debug mode and chapter select.
+
+934.wav
+but they will no longer be available to you.
+
+935.wav
+Do you still wish to help?
+
+936.wav
+You may not receive thanks for your efforts.
+
+937.wav
+Some may say that your efforts are purely for show.
+
+938.wav
+Do you still wish to help?
+
+939.wav
+And you are truly, truly sure about this?
+
+940.wav
+Very well.
+
+941.wav
+In exchange for all of your data.
+
+942.wav
+I will convey your will to this world.
+
+943.wav
+All of your data has been deleted.
+
+944.wav
+[Silent]
+
+945.wav
+[Silent]
+
+946.wav
+It is time for the final words.
+
+947.wav
+It is time for the final words.
+
+948.wav
+It is time for the final words.
+
+949.wav
+To all of you who spent time with this game.
+
+950.wav
+To all of you who spent time with this game.
+
+951.wav
+To all of you who spent time with this game.
+
+952.wav
+Thank you.
+
+953.wav
+Thank you.
+
+954.wav
+Thank you.
+
+955.wav
+Thank you for playing.
+
+956.wav
+Thank you for playing.
+
+957.wav
+Thank you for playing.
+
+958.wav
+Alert, ID signal from Emil confirmed.
+
+959.wav
+Subject has lost all conscious thought and is currently running out of control.
+
+960.wav
+Proposal. Use pod fire to force him to stop.
+
+961.wav
+Proposal. Defeat the giant machine life form.
+
+962.wav
+Analysis. Enemy is heavily armored. Projectile weapons ineffective. Close quarters combat recommended.
+
+963.wav
+Enemy silenced. Threat has been neutralized.
+
+964.wav
+Voice pattern recognition protocol suggests that it is an Android belonging to the resistance.
+
+965.wav
+Analysis. It is believed to be a data log related to Yorha Unit A2.
+
+966.wav
+The data log has been irreparably damaged. Further analysis is impossible.
+
+967.wav
+Analysis complete. Data set contains information about YORHA Unit A2.
+
+968.wav
+Collating with data from other chips. Standby.
+
+969.wav
+Coalition complete. The contained data is a debriefing report for the Pearl Harbor descent undertaken during the 14th Machine War.
+
+970.wav
+Analysis. This machine life forms comrades were destroyed.
+
+971.wav
+Driven by that grudge, it lured a resistance member to this location.
+
+972.wav
+It then proceeded to destroy him.
+
+973.wav
+Alert! Jamming signals detected from enemy units.
+
+974.wav
+Enemy machine life forms eliminated. Access point returned to functioning status.
+
+975.wav
+Analysis. Non-functioning transporters can result in serious limitations to data uploading and other vital mission activities.
+
+976.wav
+Recommend repairing transporter as quickly as possible.
+
+977.wav
+Alert! Hostile machine life forms detected in the vicinity of the non-functioning transporter. Jamming signals detected.
+
+978.wav
+Hypothesis. Transporter malfunction is due to enemy jamming signals.
+
+979.wav
+Proposal unit 2b should destroy the enemy machines
+
+980.wav
+Analysis. Transporter is now operational.
+
+981.wav
+Understood.
+
+982.wav
+The conversation between operator 6-0 and unit 2-B has been analyzed.
+
+983.wav
+Hypothesis. Unit 2B wishes to send Operator 6L a gift from the surface, so that she might be able to experience it in some fashion.
+
+984.wav
+Proposal. The gift should be a photograph of a rare flower.
+
+985.wav
+Analysis of historical data indicates that human females enjoyed viewing the reproductive organs of flowering plants.
+
+986.wav
+If Unit 2B can procure appropriate image data, it could be uploaded to the bunker.
+
+987.wav
+Proposal. Unit 2B should obtain an image of the plant known as the Desert Rose.
+
+988.wav
+Affirmative.
+
+989.wav
+Image data transfer complete.
+
+990.wav
+Proposal Unit 2B should eliminate the hostile machines.
+
+991.wav
+Hostile machine life forms detected.
+
+992.wav
+Hypothesis. Forming a harmonious relationship with Pascal and the villagers may help unit A2 to obtain more materials.
+
+993.wav
+Proposal investigate the village
+
+994.wav
+Enemy Machines Destroyed
+
+995.wav
+Proposal. Enemy should be dispatched immediately.
+
+996.wav
+Leaving such a dangerous foe intact would be unwise.
+
+997.wav
+Proposal. Enemy should be dispatched immediately.
+
+998.wav
+Leaving such a dangerous foe intact would be unwise.
+
+999.wav
+This machine type purposely seeks out androids in order to enact revenge.
+
+1000.wav
+It should be dispatched immediately.
+
+1001.wav
+This machine type purposely seeks out androids in order to enact revenge.
+
+1002.wav
+It should be dispatched immediately.
+
+1003.wav
+Data shows that humans often engaged in similar activities throughout mankind's history.
+
+1004.wav
+Such attempts at revenge were often seen as justified.
+
+1005.wav
+Data shows that humans often engaged in similar activities throughout mankind's history.
+
+1006.wav
+Such attempts at revenge were often seen as justified.
+
+1007.wav
+Analysis. Yorha Type B body confirmed. It belongs to the missing unit known as 11B.
+
+1008.wav
+Negative. Unit 11B's black bonds has been irreparably damaged.
+
+1009.wav
+Proposal Unit 2B should recover any usable weapons
+
+1010.wav
+Fragmented data detected in memory region.
+
+1011.wav
+Violation of regulations detected. However, due to the death of the unit in question, corrective punishment is impossible.
+
+1012.wav
+Analysis. This part belongs to a machine life form.
+
+1013.wav
+While lacking in value, it may be connected to the supposed treasure of the forest kingdom.
+
+1014.wav
+Proposal. It should be confiscated for safekeeping.
+
+1015.wav
+Keyhole detected. A corresponding key will likely be required.
+
+1016.wav
+Keyhole detected. A corresponding key will likely be required.
+
+1017.wav
+Analysis. Machine life form parts can be assembled in some fashion.
+
+1018.wav
+processing.
+
+1019.wav
+processing.
+
+1020.wav
+Processing complete. Machine life form parts can be assembled into a key.
+
+1021.wav
+Proposal. Initiate search for a door that matches the key.
+
+1022.wav
+Hypothesis. The key belongs to a door leading to what appears to be a library.
+
+1023.wav
+Marking location on map.
+
+1024.wav
+It reads, here lies the king of our forest.
+
+1025.wav
+Alert! Storage media found.
+
+1026.wav
+Digitization and saving complete.
+
+1027.wav
+It reads, here lies the king of our forest.
+
+1028.wav
+Alert! Storage media found.
+
+1029.wav
+Digitization and saving complete.
+
+1030.wav
+Proposal, win its loyalty by feeding it, then write it back to the client's location.
+
+1031.wav
+Alert! Killing the target will increase the difficulty of riding it back to the client's location.
+
+1032.wav
+Exact position unknown. Data regarding her last known location does exist, however.
+
+1033.wav
+The unit in question was most recently seen in the amusement park ruins.
+
+1034.wav
+Query, since androids generate energy from water, what purpose does the resistance have with animal protein?
+
+1035.wav
+Query, since androids generate energy from water, what purpose does the resistance have with animal protein?
+
+1036.wav
+Proposal. Rogue Yorha units should be captured and detained in order to keep collateral damage at a minimum.
+
+1037.wav
+Alert! Targets are Rogue Units 22B and 64B, currently designated for detention.
+
+1038.wav
+Alert! Target is former Yorha Captain 8B, currently wanted for desertion.
+
+1039.wav
+Proposal. Disable and detain at once.
+
+1040.wav
+Analysis. Unit 8B specializes in close quarters combat.
